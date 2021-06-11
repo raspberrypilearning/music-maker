@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
+Design and create your own music maker. It can be an instrument, a whole band, a musical scene, or anything else you can imagine. hovering over the different parts of your instrument or scene will cause different notes and sounds to play.
 
 <mark>Boxout (wherever wanted/needed) </mark>
 
