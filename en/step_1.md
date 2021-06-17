@@ -69,4 +69,3 @@ You are going to make some design decisions to create your character. See inside
 <mark>one image file per example</mark>
 
 --- /print-only ---
-
