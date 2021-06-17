@@ -1,19 +1,15 @@
 ## Introduction
 
-Design and create your own music maker. It can be an instrument, a whole band, a musical scene, or anything else you can imagine. hovering over the different parts of your instrument or scene will cause different notes and sounds to play.
-
-<mark>Boxout (wherever wanted/needed) </mark>
+Design your own music maker. <mark> something here about user interaction or digital music </mark>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
 </p>
 
-<mark>Objectives in language that learners will understand</mark>
-
 You will:
-+ 
-+ 
-+
++ Design your own virtual musical instrument
++ Customise the User Interaction with the music
++ Explore the relationship between maths and music
 
 <mark>Image of many different examples in a strip</mark>
 
