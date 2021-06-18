@@ -1,10 +1,12 @@
 ## Introduction
 
-Design your own music maker. <mark> something here about user interaction or digital music </mark>
+Design your own digital music maker! Invent a virtual music instrument and experiment with sounds, colour, and more.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
+<span style="color: #0faeb0">**Digital music**</span> is music that is made with numbers using computers. Digital music is everywhere - how often do you experience music coming from a phone,computer, or television?
 </p>
+
+<mark>think about how to incorporate the experience of being deaf or hard of hearing into this project. music vibrations can be felt.. think of something around that to surface. Try not to use the word 'hear' if speaking generally </mark>
 
 You will:
 + Design your own virtual musical instrument
