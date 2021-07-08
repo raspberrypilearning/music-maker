@@ -6,7 +6,7 @@ You will create a new sprite that will play sounds depending on where the user p
 </div>
 <div>
  <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
+  <source src="step-2-demo.mp4" type="video/mp4">
   Your browser does not support mp4 video.
 </video> 
 </div>
@@ -26,7 +26,15 @@ Do you want your instrument to look like a traditional instrument or something y
 
 **Choose:** what your instrument looks like, and use the Paint Tool to create it.
 
+--- /task ---
+
+
 --- task ---
+
+
+
+--- /task ---
+
 
 
 
@@ -40,3 +48,4 @@ Each debug in a collapse or ingredient
 --- /task ---
 
 --- save ---
+
