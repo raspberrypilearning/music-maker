@@ -24,7 +24,7 @@ Example projects:
 
 - Use scratch backpack ingredient
 
- the theme of your project to 
+You could add to the theme of your soundscape.
 
 --- task ---
 
@@ -32,14 +32,15 @@ Add a background. Make it scroll if you would like to.
 
 - Adding a background
 - Scrolling a background
+- Changing the look of a sprite
 
 --- /task ---
 
-Your instrument could play along so some background music.
+Your instrument could play along to some background music.
 
 --- task ---
 
-To add background music, 
+Add some background music
 
 --- /task ---
 
