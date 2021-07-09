@@ -84,7 +84,6 @@ Most of these images will require you to **attribute** the creator. So you shoul
 
 [[[generic-get-picture-from-web]]]
 
-
 --- collapse ---
 ---
 title: Uploading a sprite to Scratch
@@ -102,4 +101,6 @@ title: Uploading a sprite to Scratch
 
 **Debug:** 
 
-[[[SPRITE WRONG DIRECTION INGREDIENT]]]
+- sprite wrong direction ingredient
+
+--- save --
