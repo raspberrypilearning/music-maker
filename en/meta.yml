@@ -9,15 +9,15 @@ steps:
   - title: Introduction
   - title: Create an instrument
   - title: Play music
-  ##- title: Change the sound
-  ##- title: Create a Soundscape
-  ##- title: Reflection
-  ##  knowledge_quiz:
-  ##    path: quiz1
-  ##    version: 1
-  ##    questions: 3
-  ##    passing_score: 3
-  ##- title: Upgrade your project
-  ##- title: Share
-  ##- title: What next?
+  - title: Change the sound
+  - title: Create a Soundscape
+  - title: Reflection
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Upgrade your project
+  - title: Share
+  - title: What next?
   
