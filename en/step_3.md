@@ -40,7 +40,6 @@ Use `My Blocks`{:class='block3myblocks'} to design what your instrument sounds l
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>Scratch uses what are called **midi** values to set the pitch of any note that is played. A **midi** value of `60` is the same as **middle C**. The higher the **midi** value, the higher the pitch of the note.
 </p>
 
-
 --- task ---
 
 There are many elements of music that you can experiment with. You can change the notes, instrument, beats, rest, and tempo.
@@ -91,7 +90,18 @@ play note: intrument (14) note (62) beats (0.25) rest (0.25)
 
 **Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
 
-My instrument does not play anything when my sprite touches it
+--- collapse ---
+---
+title: My instrument does not play anything when my sprite touches it
+---
+
+Did you use the **color picker** to select the colour that played a note, on your `touching color`{:class='block3sensing'} blocks?
+
+
+
+
+--- /collapse ---
+
 
 My instrument does not play one note after another
 

@@ -61,8 +61,6 @@ If you want just the outline of the sprite, convert it to a bitmap and use the *
 
 CHECK FOR FILL IMAGES/INGREDIENT
 
-
-
 --- /collapse ---
 
 [[[generic-scratch3-draw-sprite]]]
