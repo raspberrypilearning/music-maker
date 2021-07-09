@@ -36,20 +36,31 @@ Add a background. Make it scroll if you would like to.
 
 --- /task ---
 
-Your instrument could play along to some background music.
+Your instrument could play along to some background music, or you could add other sprites that make sounds (for example, a bird chirping). You could even add in a song you like.
 
 --- task ---
 
-Add some background music
+Add more sounds to your music maker
+
+- Add background music from Scratch
+- Add other sounds from Scratch
+- Edit your sounds
+- Record your own sounds
+- Upload music to Scratch
 
 --- /task ---
 
+You can make your music maker more interactive. Does it move? If you have any characters, do they emote?
 
+--- task ---
 
+- Emotes in Sprite
+- Motion
+- Change costume
+
+--- /task ---
 
 **Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
-
-
 
 
 --- save ---

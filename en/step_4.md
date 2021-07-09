@@ -32,7 +32,7 @@ Add code within a `forever`{:class='block3control'} block, so that when the pick
 when flag clicked
 forever
 if <touching (Guitar v) ?> then
-set instrument to ((5) Electric Guitar v)
+set instrument to (Electric Guitar v)
 end
 ```
 --- /task ---
