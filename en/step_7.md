@@ -15,7 +15,7 @@ Here are some ideas you could try:
 
 Take a look at our [Googly eye character Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
 
---- save ---ur project
+--- save ---
 
 If you have time you can upgrade to your project. 
 
