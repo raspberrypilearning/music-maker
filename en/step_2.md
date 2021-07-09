@@ -6,7 +6,7 @@ You will create a new sprite that will play sounds depending on where the user p
 </div>
 <div>
  <video width="320" height="240" controls>
-  <source src="step-2-demo.mp4" type="video/mp4">
+  <source src="images/step-2-demo.mp4" type="video/mp4">
   Your browser does not support mp4 video.
 </video> 
 </div>

@@ -6,7 +6,7 @@
 </div>
 <div>
  <video width="320" height="240" controls>
-  <source src="step-3-demo.mp4" type="video/mp4">
+  <source src="images/step-3-demo.mp4" type="video/mp4">
   Create a sprite that will interact with your instrument and play sounds.
 </video>
 </div>
