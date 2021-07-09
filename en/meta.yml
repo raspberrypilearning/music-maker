@@ -8,7 +8,7 @@ last_tested: "2021-06-11"
 steps:
   - title: Introduction
   - title: Create an instrument
-  ##- title: Play music
+  - title: Play music
   ##- title: Change the sound
   ##- title: Create a Soundscape
   ##- title: Reflection
