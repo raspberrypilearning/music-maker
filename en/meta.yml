@@ -7,9 +7,8 @@ copyedit: false
 last_tested: "2021-06-11"
 steps:
   - title: Introduction
-  - title: Invent an instrument
-  - title: How do you play it?
-  - title: What does it sound like?
+  - title: Create an instrument
+  - title: Play music
   - title: Create a Soundscape
   - title: Reflection
     knowledge_quiz:
