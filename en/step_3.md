@@ -76,9 +76,12 @@ When the sprite that is following the mouse pointer, touches a specific colour o
 when flag clicked
 forever
 if <touching color (#49c020) > then
-play note: (60) beats (0.25) rest (0.25)
+play note: (60) beats (0.25) rest (0.25)::custom
+end
 if <touching color (#7f20c0) > then 
-play note: (62) beats (0.25) rest (0.25)
+play note: (62) beats (0.25) rest (0.25)::custom
+end
+end
 ```
  
  --- /collapse ---
