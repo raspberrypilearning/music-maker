@@ -21,7 +21,7 @@ Example projects:
 
 **Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project
 
-[[[Use scratch backpack ingredient]]]
+- Use scratch backpack ingredient
 
 Do you want to change, or add to the theme of your project?
 
@@ -29,8 +29,8 @@ Do you want to change, or add to the theme of your project?
 
 Add a background. Make it scroll if you would like to.
 
-[[[Adding a background]]]
-[[[Scrolling a background]]]
+- Adding a background
+- Scrolling a background
 
 --- /task ---
 
