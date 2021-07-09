@@ -20,11 +20,11 @@ Add some sprites to represent the different sounds you want your instrument to p
 
 --- /task ---
 
-Store the type of sound (or instrument) as a variable so the person using the instrument can choose any of the different sounds.
+When the pick sprite touches your additional sprites, you can add code to the pick sprite to 
 
 --- task ---
 
-Create a variable called `instrument`{:class='block3variable'}
+
 
 --- /task ---
 
