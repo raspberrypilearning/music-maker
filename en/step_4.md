@@ -7,7 +7,7 @@
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-4-demo.mp4" type="video/mp4">
-  Add interaction so that you can choose what sound the instrument has
+  Add interaction so that you can choose what instrument is used when a sound is played.
 </video>
 </div>
 </div>
@@ -26,7 +26,7 @@ When the pick sprite touches your additional sprites, you can add code to the pi
 
 --- task ---
 
-Add code within a `forever`{:class='block3control'} block, so that when the pick touches the different sprites, the instument being played is changed. For example:
+Add code within a `forever`{:class='block3control'} block, so that when the **pick** touches the different sprites, the instrument being played is changed. For example:
 
 ```blocks3
 when flag clicked
@@ -37,3 +37,18 @@ end
 ```
 --- /task ---
 
+You can customise your project to play any sound you want when the **pick** touches an instrument, object or character on the Stage. 
+
+--- task ---
+
+Add in some more ways to customise how your instrument sounds when it plays music.
+
+--- /task ---
+
+--- task ---
+
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+
+
+
+--- /task ---
