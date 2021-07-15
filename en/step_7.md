@@ -2,8 +2,11 @@
 
 If you have time you can upgrade to your project. 
 
+You have
+
 Here are some ideas you could try:
-- ...
+
+- 
 - ...
 
 <mark> Optional </mark>Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
