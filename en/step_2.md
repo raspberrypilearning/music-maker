@@ -93,7 +93,7 @@ title: Uploading a sprite to Scratch
 
 ![choose sprite menu with upload sprite selected](images/upload-sprite.png)
 
-- Use your file broswer to select the sprite you wish to upload.
+- Use your file browser to select the sprite you wish to upload.
 
 --- /collapse ---
 
