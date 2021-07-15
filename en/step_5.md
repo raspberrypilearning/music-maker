@@ -5,7 +5,10 @@
 Music is experienced by people in many different ways. Sometimes music includes visuals, beats, a band, art, dancing, and even things like echos and animal sounds. Create a soundscape for your music maker.
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+ <video width="320" height="240" controls>
+  <source src="images/step-5-demo.mp4" type="video/mp4">
+  Add additional sprites to your project, that play sounds, move, change appearance, or otherwise develop the soundscape.
+</video>
 </div>
 </div>
 
@@ -18,21 +21,34 @@ Think about your instrument and what it sounds like. What would you like to add 
 You can 'See Inside' the example projects to look at how they work.
 
 Example projects:
-- examples here
+**Groovy keyboard**: [See inside](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/546067020/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Musical fish**: [See inside](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/106040821/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Musical flowers**: [See inside](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+</div>
 
 **Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project
 
-- Use scratch backpack ingredient
+[[[scratch-backpack]]]
 
 You could add to the theme of your soundscape.
 
 --- task ---
 
-Add a background. Make it scroll if you would like to.
+[[[scratch3-changing-backdrops-pages-levels]]]
 
-- Adding a background
-- Scrolling a background
-- Changing the look of a sprite
+[[[scratch3-paint-a-new-backdrop-extended]]]
+
+[[[scratch3-graphic-effects]]]
 
 --- /task ---
 
@@ -42,11 +58,11 @@ Your instrument could play along to some background music, or you could add othe
 
 Add more sounds to your music maker
 
-- Add background music from Scratch
-- Add other sounds from Scratch
-- Edit your sounds
-- Record your own sounds
-- Upload music to Scratch
+[[[scratch3-add-sound]]]
+
+[[[scratch3-record-sound]]]
+
+[[[scratch3-text-to-speech]]]
 
 --- /task ---
 
@@ -54,13 +70,10 @@ You can make your music maker more interactive. Does it move? If you have any ch
 
 --- task ---
 
-- Emotes in Sprite
-- Motion
-- Change costume
+[[[scratch3-change-costumes-to-show-mood]]]
+
+[[[scratch3-animate-movement-costumes]]]
 
 --- /task ---
-
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
-
 
 --- save ---

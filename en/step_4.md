@@ -49,6 +49,26 @@ Add in some more ways to customise how your instrument sounds when it plays musi
 
 **Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
 
+--- collapse ---
+---
+title: The sound changes to the wrong sound
+---
 
+Make sure the if condition in your `Sensing`{:class='block3control'} block matches the instrument or sound you wanted from the `Music`{:class='block3custom'} extension.
+
+```blocks3
+when flag clicked
+forever
++ if <touching (Guitar v) ?> then
++ set instrument to (Electric Guitar v)
+end
+```
+
+--- /collapse ---
+
+<mark> Would be grateful for some feedback on what bugs might go here.</mark>
+- Something has happened to the sound
+- I cannot hear the sound very well
+- The instrument takes too long to change instrument/sound
 
 --- /task ---
