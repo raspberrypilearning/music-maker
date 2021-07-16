@@ -2,12 +2,12 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-
+Create a sprite that will interact with your instrument and play sounds.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-3-demo.mp4" type="video/mp4">
-  Create a sprite that will interact with your instrument and play sounds.
+  Your browser does not support mp4 video.
 </video>
 </div>
 </div>

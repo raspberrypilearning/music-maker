@@ -21,20 +21,11 @@ Think about your instrument and what it sounds like. What would you like to add 
 You can 'See Inside' the example projects to look at how they work.
 
 Example projects:
-**Groovy keyboard**: [See inside](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/546067020/?autostart=false" frameborder="0"></iframe>
-</div>
+- [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor)
 
-**Musical fish**: [See inside](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/106040821/?autostart=false" frameborder="0"></iframe>
-</div>
+- [Musical fish](https://scratch.mit.edu/projects/106040821/editor)
 
-**Musical flowers**: [See inside](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
-</div>
+- [Musical flowers](https://scratch.mit.edu/projects/520146902/editor)
 
 **Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project
 

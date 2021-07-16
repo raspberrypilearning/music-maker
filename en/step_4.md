@@ -2,23 +2,23 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-
+Add interaction so that you can choose what instrument is used when a sound is played.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-4-demo.mp4" type="video/mp4">
-  Add interaction so that you can choose what instrument is used when a sound is played.
+  Your browser does not support mp4 video.
 </video>
 </div>
 </div>
 
-The great thing about digital music is that you can get one sprite to easily play the sounds of many different instruments. 
+The great thing about digital music is that you can get one instrument sprite to easily play the sounds of many different instruments. 
 
 --- task ---
 
 Add some sprites to represent the different sounds you want your instrument to play. You can use instrument sprites, or choose whatever you like, it does not have to make sense.
 
-![scratch stage with different instruments displayed, and a bunch of bananas](images/instuments.png)
+![scratch stage with different instruments displayed, and a bunch of bananas](images/instruments.png)
 
 --- /task ---
 
@@ -37,13 +37,7 @@ end
 ```
 --- /task ---
 
-You can customise your project to play any sound you want when the **pick** touches an instrument, object or character on the Stage. 
-
---- task ---
-
-Add in some more ways to customise how your instrument sounds when it plays music.
-
---- /task ---
+You can customise your project to play any sound you want when the **pick** touches an instrument, object or character on the Stage.
 
 --- task ---
 
@@ -66,9 +60,9 @@ end
 
 --- /collapse ---
 
-<mark> Would be grateful for some feedback on what bugs might go here.</mark>
+<mark> Would be grateful for some feedback on what bugs might go here.
 - Something has happened to the sound
 - I cannot hear the sound very well
-- The instrument takes too long to change instrument/sound
+- The instrument takes too long to change instrument/sound </mark>
 
 --- /task ---

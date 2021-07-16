@@ -11,7 +11,7 @@ You will:
 + Customise the User Interaction with the music
 + Explore the relationship between maths and music
 
-![three example projects shown](images/3-projects.png)
+![three example projects shown](images/musical-showcase.png)
 
 --- no-print ---
 

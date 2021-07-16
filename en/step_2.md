@@ -49,17 +49,15 @@ title: Adapting sprites
 
 This groovy keyboard was adapted from the Snake sprite:
 
+![groovy keyboard example](images/groovy-keyboard.png)
+
 ![scratch snake sprite](images/snake-sprite.png)
 
 To adapt sprites, select the sprite you want and go to the paint editor.
 
 If you just want part of the sprite, you can crop it.
 
-THERE SHOULD BE SOMETHING HERE FROM SPACE TALK
-
 If you want just the outline of the sprite, convert it to a bitmap and use the **Fill** tool
-
-CHECK FOR FILL IMAGES/INGREDIENT
 
 --- /collapse ---
 
@@ -99,8 +97,11 @@ title: Uploading a sprite to Scratch
 
 --- /task ---
 
-**Debug:** 
+--- task ---
 
-- sprite wrong direction ingredient
+**Debug:** You may have done a lot of debugging already! Did you change the direction your sprite was pointing? Did you solve any problems? Think about all the debugging you have already done to create your musical instrument. 
+
+--- /task ---
+
 
 --- save --
