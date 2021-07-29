@@ -17,9 +17,9 @@ Here are some ideas:
 - Introduce 'random' to procedurally generate music
 - Make a 'copy the tune' game where Scratch plays a tune for the user to copy using the instrument
 
-<mark> Optional </mark>Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Each example project in the [Introduction](.) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
 
-Take a look at our [Googly eye character Scratch studio](https://scratch.mit.edu/studios/29120534){:target="_blank"} to see projects created by community members.
+Take a look at our [Music maker Scratch studio](https://scratch.mit.edu/studios/30122192){:target="_blank"} to see projects created by community members.
 
 --- save ---
 
