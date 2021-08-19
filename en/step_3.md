@@ -12,21 +12,21 @@ Create a sprite that will interact with your instrument and play sounds.
 </div>
 </div>
 
-Your instrument will play notes when another sprite touches different colours on your instrument sprite. This is similar to how a guitar will play notes when a pick touches the strings, or a piano plays notes when fingers press on the keys.
+Your instrument will play notes when another sprite touches the different colours on your **instrument** sprite. This is similar to how a guitar will play notes when a pick touches the strings, or a piano plays notes when fingers press on the keys.
 
 --- task ---
 
-Make or choose a sprite that will follow your mouse pointer and be used to play different notes. In the example below, we have used a simple coloured circle.
+Make or choose a sprite that will follow your mouse-pointer and can be used to play different notes. In the example below, we have used a simple coloured circle.
 
-![small gold circle sprite](images/pick.svg)
+![Small gold circle sprite.](images/pick.svg)
 
 --- /task ---
 
-Now, get your sprite to follow your mouse pointer, so that the person playing the instrument can control it.
+Now, get your sprite to follow your mouse-pointer, so that the person playing the instrument can control it.
 
 --- task ---
 
-Add code so that your new sprite follows the mouse pointer.
+Add code so that your new sprite follows the mouse-pointer.
 
 ```blocks3
 when flag clicked
@@ -61,11 +61,11 @@ rest for (rest) beats
 
 --- /task ---
 
-When the sprite that is following the mouse pointer, touches a specific colour on your **instrument** a sound should be played. Your music maker can use the `play note`{:class='block3myblocks'} block to set different instruments, notes, beats and rests.
+When the sprite that is following the mouse-pointer touches a specific colour on your **instrument**, a sound should be played. Your music maker can use the `play note`{:class='block3myblocks'} block to set different instruments, notes, beats, and rests.
 
 --- task ---
 
- Add `if...then`{:class='block3control'} blocks and the `play note:`{:class='block3myblocks'} blocks to your instrument sprite. Add as many `if...else`{:class='block3control'} blocks as you need.
+ Add `if...then`{:class='block3control'} blocks and the `play note:`{:class='block3myblocks'} blocks to your **instrument** sprite. Add as many `if...else`{:class='block3control'} blocks as you need.
 
  --- collapse ---
  ---
@@ -97,9 +97,9 @@ end
 title: My instrument does not play anything when my sprite touches it
 ---
 
-Did you use the **color picker** to select the colour that played a note, on your `touching color`{:class='block3sensing'} blocks?
+Did you use the **colour picker** to select the colour that plays a note, on your `touching color`{:class='block3sensing'} blocks?
 
-![the select colour interface shown, with the color picker highlighted](images/touching-color.png)
+![The 'select colour' interface shown, with the colour picker highlighted.](images/touching-color.png)
 
 --- /collapse ---
 
@@ -108,17 +108,17 @@ Did you use the **color picker** to select the colour that played a note, on you
 title: My instrument only plays one note
 ---
 
-Add as many different colours as you want notes. Sometimes when you have very similar shades of colour, it may recognize it as the same colour (and therefore note).
+Add as many different colours as notes wanted. Sometimes when you have very similar shades of colour, it may recognize them as the same colour (and therefore play the same note).
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: The music plays too quickly or too slow
+title: The music plays too quickly or too slowly
 ---
 
-You can change the length of time that a note plays for, and for the time between notes. In your `play note:`{:class='block3myblocks'} block adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+You can change the length of time that a note plays for, and for the time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
 
 --- /collapse ---
 
@@ -127,7 +127,7 @@ You can change the length of time that a note plays for, and for the time betwee
 title: The instrument plays a note repeatedly until I try another note
 ---
 
-You can change the length of time that a note plays for, and for the time between notes. In your `play note:`{:class='block3myblocks'} block adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+You can change the length of time that a note plays for, and for the time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
 
 --- /collapse ---
 
