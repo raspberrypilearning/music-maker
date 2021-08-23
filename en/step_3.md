@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create a sprite that will interact with your instrument and play sounds.
+Create a sprite that will interact with your **instrument** sprite and play sounds.
 </div>
 <div>
  <video width="320" height="240" controls>
@@ -12,7 +12,7 @@ Create a sprite that will interact with your instrument and play sounds.
 </div>
 </div>
 
-Your instrument will play notes when another sprite touches the different colours on your **instrument** sprite. This is similar to how a guitar will play notes when a pick touches the strings, or a piano plays notes when fingers press on the keys.
+Your instrument will play notes when another sprite touches the different colours on your **instrument** sprite. This is similar to how a guitar plays notes when a pick touches the strings, or a piano plays notes when fingers press the keys.
 
 --- task ---
 
@@ -61,7 +61,7 @@ rest for (rest) beats
 
 --- /task ---
 
-When the sprite that is following the mouse-pointer touches a specific colour on your **instrument**, a sound should be played. Your music maker can use the `play note`{:class='block3myblocks'} block to set different instruments, notes, beats, and rests.
+When the sprite that is following the mouse-pointer touches a specific colour on your **instrument** sprite, a sound should be played. Your music maker can use the `play note:`{:class='block3myblocks'} block to set different instruments, notes, beats, and rests.
 
 --- task ---
 
@@ -108,7 +108,7 @@ Did you use the **colour picker** to select the colour that plays a note, on you
 title: My instrument only plays one note
 ---
 
-Add as many different colours as notes wanted. Sometimes when you have very similar shades of colour, it may recognize them as the same colour (and therefore play the same note).
+Add as many different colours as notes wanted. Sometimes when you have very similar shades of colour, it may recognise them as the same colour (and therefore play the same note).
 
 --- /collapse ---
 
@@ -118,7 +118,7 @@ Add as many different colours as notes wanted. Sometimes when you have very simi
 title: The music plays too quickly or too slowly
 ---
 
-You can change the length of time that a note plays for, and for the time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+You can change the length of time that a note plays for, and the length of time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
 
 --- /collapse ---
 
@@ -127,7 +127,7 @@ You can change the length of time that a note plays for, and for the time betwee
 title: The instrument plays a note repeatedly until I try another note
 ---
 
-You can change the length of time that a note plays for, and for the time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+You can change the length of time that a note plays for, and the time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
 
 --- /collapse ---
 
