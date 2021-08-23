@@ -48,7 +48,7 @@ You can customise your project to play any sound you want when the **pick** touc
 title: The sound changes to the wrong sound
 ---
 
-Make sure the if condition in your `Sensing`{:class='block3control'} block matches the instrument or sound you wanted from the `Music`{:class='block3custom'} extension.
+Make sure the `if`{:class="block3control"} condition in your `Sensing`{:class='block3control'} block matches the instrument or sound you wanted from the `Music`{:class='block3custom'} extension.
 
 ```blocks3
 when flag clicked
