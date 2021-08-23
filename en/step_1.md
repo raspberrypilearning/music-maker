@@ -22,7 +22,7 @@ You will:
 
 ### Try it 
 
-Hover with your cursor (or finger if you are on a tablet), over different parts of the flower. What can you hear? Try changing the sound by clicking on other instruments.
+Hover with your cursor (or finger if you are on a tablet), over different parts of the flower. What can you hear? Try changing the sound by clicking on the instruments at the top.
 
 </div>
 <div>
