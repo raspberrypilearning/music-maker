@@ -10,7 +10,7 @@ steps:
   - title: Create an instrument
   - title: Play music
   - title: Change the sound
-  - title: Create a Soundscape
+  - title: Create a soundscape
   - title: Reflection
     knowledge_quiz:
       path: quiz1
