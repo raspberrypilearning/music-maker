@@ -1,6 +1,6 @@
 ## What next?
 
-If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Welcome to my world](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will create your own virtual world.
+If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Welcome to my world](https://projects.raspberrypi.org/en/projects/welcome-to-my-world) project. In this project, you will create your own virtual world.
 
 --- print-only ---
 
