@@ -7,18 +7,18 @@ Music is experienced by people in many different ways. Sometimes music includes 
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-5-demo.mp4" type="video/mp4">
-  Add additional sprites to your project, that play sounds, move, change appearance, or otherwise develop the soundscape.
+  Add additional sprites to your project, which play sounds, move, change appearance, or otherwise develop the soundscape.
 </video>
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> A **Soundscape**</span> is the environment or context of music as experienced by people. The setting is an important part of any musical experience, as are other noises or musical layers. 
+<span style="color: #0faeb0"> A **soundscape**</span> is the environment or context of music as experienced by people. The setting is an important part of any musical experience, as are other noises or musical layers. 
 </p>
 
 Think about your instrument and what it sounds like. What would you like to add to create a soundscape?
 
-You can 'See Inside' the example projects to look at how they work.
+You can **See inside** the example projects to look at how they work.
 
 Example projects:
 - [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor)
@@ -27,7 +27,7 @@ Example projects:
 
 - [Musical flowers](https://scratch.mit.edu/projects/520146902/editor)
 
-**Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project
+**Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project.
 
 [[[scratch-backpack]]]
 
@@ -47,7 +47,7 @@ Your instrument could play along to some background music, or you could add othe
 
 --- task ---
 
-Add more sounds to your music maker
+Add more sounds to your music maker.
 
 [[[scratch3-add-sound]]]
 
