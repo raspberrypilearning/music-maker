@@ -127,7 +127,7 @@ You can change the length of time that a note plays for, and the length of time 
 title: The instrument plays a note repeatedly until I try another note
 ---
 
-You can change the length of time that a note plays for, and the time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+Then instrument will replay a note depending on the length of time the note is played for. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
 
 --- /collapse ---
 
