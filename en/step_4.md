@@ -60,9 +60,4 @@ end
 
 --- /collapse ---
 
-<mark> Would be grateful for some feedback on what bugs might go here.
-- Something has happened to the sound
-- I cannot hear the sound very well
-- The instrument takes too long to change instrument/sound </mark>
-
 --- /task ---
