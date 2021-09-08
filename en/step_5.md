@@ -21,11 +21,11 @@ Think about your instrument and what it sounds like. What would you like to add 
 You can **See inside** the example projects to look at how they work.
 
 Example projects:
-- [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor)
+- [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
 
-- [Musical fish](https://scratch.mit.edu/projects/106040821/editor)
+- [Musical fish](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
 
-- [Musical flowers](https://scratch.mit.edu/projects/520146902/editor)
+- [Musical flowers](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 
 **Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project.
 
