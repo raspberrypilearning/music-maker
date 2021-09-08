@@ -26,7 +26,7 @@ Your **instrument** sprite will play different notes, depending on the colours t
 
 **Choose:** What will your **instrument** sprite look like? Use the **Paint** tool to create it. In the example below, the instrument looks like a flower. 
 
-![A sprite shaped like a flower with petals of different colours.](images/flower.svg)
+![A sprite shaped like a flower with petals of different colours.](images/flower.png)
 
 Think about how many different sounds you want your instrument to play. Make sure your instrument has at least that many different colours.
 
@@ -76,7 +76,7 @@ Sometimes images have a **license** that allows them to be used without asking f
 
 Most of these images will require you to **attribute** the creator. So you should add a link to the website you found them on; you could add this in to the **Notes and Credits** section of you project page.
 
-![Scratch project page.](project-page.png)
+![Scratch project page with 'Notes and Credits' box highlighted.](images/project-page.png)
 
 --- /collapse ---
 
@@ -104,4 +104,4 @@ title: Uploading a sprite to Scratch
 --- /task ---
 
 
---- save --
+--- save ---

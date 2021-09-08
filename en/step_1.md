@@ -67,13 +67,13 @@ Explore these example projects to get more ideas:
 You are going to make some design decisions to create your own instrument, deciding how it interacts and what it sounds like. See inside the example projects below for inspiration. 
 
 ![Musical flowers screenshot.](images/musical-flowers.png)
-[Scratch 1: Musical flowers – Examples](https://scratch.mit.edu/studios/520146902/){:target="_blank"} Scratch studio.
+Scratch 1: Musical flowers – Examples : https://scratch.mit.edu/studios/520146902/ Scratch studio.
 
 ![Groovy keyboard screenshot.](images/groovy-keyboard.png)
-[Scratch 1: Groovy keyboard – Examples](https://scratch.mit.edu/studios/546067020/){:target="_blank"} Scratch studio.
+Scratch 1: Groovy keyboard – Examples : https://scratch.mit.edu/studios/546067020 Scratch studio.
 
 ![Musical fish screenshot.](images/musical-fish.png)
-[Scratch 1: Musical fish – Examples](https://scratch.mit.edu/studios/106040821/){:target="_blank"} Scratch studio.
+Scratch 1: Musical fish – Examples : https://scratch.mit.edu/studios/106040821/ Scratch studio.
 
 
 --- /print-only ---

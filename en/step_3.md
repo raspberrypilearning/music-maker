@@ -18,7 +18,7 @@ Your instrument will play notes when another sprite touches the different colour
 
 Make or choose a sprite that will follow your mouse-pointer and can be used to play different notes. In the example below, we have used a simple coloured circle.
 
-![Small gold circle sprite.](images/pick.svg)
+![Small gold circle sprite.](images/pick.png)
 
 --- /task ---
 
