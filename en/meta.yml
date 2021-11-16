@@ -9,6 +9,7 @@ steps:
   - title: Introduction
   - title: Create an instrument
   - title: Play music
+    completion: engaged  
   - title: Change the sound
   - title: Create a soundscape
   - title: Reflection
@@ -17,7 +18,9 @@ steps:
       version: 1
       questions: 2
       passing_score: 2
+    completion: internal       
   - title: Upgrade your project
+    completion: external  
   - title: Share
   - title: What next?
   
