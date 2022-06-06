@@ -1,26 +1,29 @@
+---
 title: Music maker
 hero_image: images/banner.png
 description: Design your own musical instrument.
 version: 4
 listed: true
 copyedit: true
-last_tested: "2021-06-11"
+last_tested: '2021-06-11'
 steps:
-  - title: Introduction
-  - title: Create an instrument
-  - title: Play music
-    completion: engaged  
-  - title: Change the sound
-  - title: Create a soundscape
-    completion: internal      
-  - title: Reflection
-    completion: external  
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 2
-      passing_score: 2 
-  - title: Upgrade your project
-  - title: Share
-  - title: What next?
-  
+- title: Introduction
+- title: Create an instrument
+- title: Play music
+  completion:
+  - engaged
+- title: Change the sound
+- title: Create a soundscape
+  completion:
+  - internal
+- title: Reflection
+  knowledge_quiz:
+    path: quiz1
+    version: 1
+    questions: 2
+    passing_score: 2
+  completion:
+  - external
+- title: Upgrade your project
+- title: Share
+- title: What next?
