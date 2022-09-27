@@ -1,32 +1,32 @@
-## Change the sound
+## Verander het geluid
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add interaction so that you can choose what instrument is used when a sound is played.
+Voeg interactie toe zodat je kunt kiezen welk instrument wordt gebruikt wanneer een geluid wordt afgespeeld.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-4-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  Je browser ondersteunt geen mp4-video.
 </video>
 </div>
 </div>
 
-The great thing about digital music is that you can get one instrument sprite to easily play the sounds of many different instruments.
+Het leuke aan digitale muziek is dat je één instrument-sprite kunt gebruiken om de geluiden van veel verschillende instrumenten eenvoudig af te spelen.
 
 --- task ---
 
-Add some sprites to represent the different sounds you want your instrument to play. You can use instrument sprites, or choose whatever you like, it does not have to make sense.
+Voeg wat sprites toe om de verschillende geluiden weer te geven die je wilt dat je instrument speelt. Je kunt instrument sprites gebruiken, of kiezen wat je maar wilt, het hoeft niet logisch te zijn.
 
-![Scratch stage with different instruments displayed, and a bunch of bananas.](images/instruments.png)
+![Scratch achtergrond met verschillende instrumenten en een tros bananen.](images/instruments.png)
 
 --- /task ---
 
-You can add code to the **pick** sprite to change the instrument that is being played when the **pick** sprite touches your additional sprites.
+Je kunt code toevoegen aan de **kies** sprite om het instrument te veranderen dat wordt gespeeld wanneer de **kies** sprite je extra sprites raakt.
 
 --- task ---
 
-Add code within a `forever`{:class='block3control'} block, so that when the **pick** touches the different sprites, the instrument being played changes. For example:
+Voeg code toe binnen een `herhaal`{:class='block3control'} blok, zodat wanneer de **kies** de verschillende sprites raakt, het instrument dat wordt gespeeld verandert. Bijvoorbeeld:
 
 ```blocks3
 when flag clicked
@@ -37,18 +37,18 @@ end
 ```
 --- /task ---
 
-You can customise your project to play any sound you want when the **pick** touches an instrument, object, or character on the Stage.
+Je kunt je project aanpassen zodat je elk geluid kunt afspelen wanneer de **kies** een instrument, voorwerp of personage op het speelveld raakt.
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Mogelijk vind je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
 --- collapse ---
 ---
-title: The sound changes to the wrong sound
+title: Het geluid verandert in het verkeerde geluid
 ---
 
-Make sure the `if`{:class="block3control"} condition in your `Sensing`{:class='block3control'} block matches the instrument or sound you wanted from the `Music`{:class='block3custom'} extension.
+Zorg ervoor dat de `als`{:class="block3control"} voorwaarde in je `waarnemen`{:class='block3control'} blok overeenkomt met het gewenste instrument of geluid van de `muziek`{:class='block3custom'} extensie.
 
 ```blocks3
 when flag clicked
