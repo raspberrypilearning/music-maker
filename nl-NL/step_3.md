@@ -1,32 +1,32 @@
-## Play music
+## Speel muziek af
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create a sprite that will interact with your **instrument** sprite and play sounds.
+Maak een sprite die met je **instrument** sprite zal communiceren en geluiden zal afspelen.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-3-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  Je browser ondersteunt geen mp4-video.
 </video>
 </div>
 </div>
 
-Your instrument will play notes when another sprite touches the different colours on your **instrument** sprite. This is similar to how a guitar plays notes when a pick touches the strings, or a piano plays notes when fingers press the keys.
+Je instrument speelt noten wanneer een andere sprite de verschillende kleuren van je **instrument** sprite raakt. Dit is vergelijkbaar met hoe een gitaar noten speelt wanneer een plectrum de snaren raakt, of een piano noten speelt wanneer vingers op de toetsen drukken.
 
 --- task ---
 
-Make or choose a sprite that will follow your mouse-pointer and can be used to play different notes. In the example below, we have used a simple coloured circle.
+Maak of kies een sprite die je muisaanwijzer volgt en kan worden gebruikt om verschillende noten te spelen. In het onderstaande voorbeeld hebben we een eenvoudige gekleurde cirkel gebruikt.
 
-![Small gold circle sprite.](images/pick.png)
+![Kleine gouden cirkel sprite.](images/pick.png)
 
 --- /task ---
 
-Now, get your sprite to follow your mouse-pointer, so that the person playing the instrument can control it.
+Laat je sprite nu je muisaanwijzer volgen, zodat de persoon die het instrument speelt het kan besturen.
 
 --- task ---
 
-Add code so that your new sprite follows the mouse-pointer.
+Voeg code toe zodat je nieuwe sprite de muisaanwijzer volgt.
 
 ```blocks3
 when flag clicked
@@ -35,20 +35,20 @@ go to (mouse-pointer v)
 ```
 --- /task ---
 
-Use `My Blocks`{:class='block3myblocks'} to design what your instrument sounds like.
+Gebruik `Mijn blokken`{:class='block3myblocks'} om te ontwerpen hoe je instrument klinkt.
 
-<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>Scratch uses what are called **midi** values to set the pitch of any note that is played. A **midi** value of `60` is the same as **middle C**. The higher the **midi** value, the higher the pitch of the note.
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>Scratch gebruikt de zogenaamde **midi** waarden om de toonhoogte in te stellen van elke noot die wordt gespeeld. Een **midi** waarde van '60" is hetzelfde als **centrale C**. Hoe hoger de **midi** waarde, hoe hoger de toonhoogte van de noot.
 </p>
 
 --- task ---
 
-There are many elements of music that you can experiment with. You can change the notes, instrument, beats, rest, and tempo.
+Er zijn veel elementen waarmee je kan experimenteren in muziek. Je kunt de noten, het instrument, de beats, de rust en het tempo wijzigen.
 
-Create a `My Blocks`{:class='block3myblocks'} block that has inputs for as many of these elements as you want.
+Maak een `Mijn blokken`{:class='block3myblocks'} blok dat invoer heeft voor zoveel van deze elementen als je wilt.
 
 --- collapse ---
 ---
-title: Create a custom musical block
+title: maak je eigen muziek blok
 ---
 
 ```blocks3
@@ -61,15 +61,15 @@ rest for (rest) beats
 
 --- /task ---
 
-When the sprite that is following the mouse-pointer touches a specific colour on your **instrument** sprite, a sound should be played. Your music maker can use the `play note:`{:class='block3myblocks'} block to set different instruments, notes, beats, and rests.
+Wanneer de sprite die de muisaanwijzer volgt een specifieke kleur op je **instrument** sprite raakt, moet er een geluid worden afgespeeld. Je muziekmaker kan het `speel noot:`{:class='block3myblocks'} blok gebruiken om verschillende instrumenten, noten, beats en rust in te stellen.
 
 --- task ---
 
- Add `if...then`{:class='block3control'} blocks and the `play note:`{:class='block3myblocks'} blocks to your **instrument** sprite. Add as many `if...else`{:class='block3control'} blocks as you need.
+ Voeg `als...dan`{:class='block3control'} blokken en de `speel noot:`{:class='block3myblocks'} blokken toe aan je **instrument** sprite. Voeg zoveel `als....dan`{:class='block3control'} blokken toe als je nodig hebt.
 
  --- collapse ---
  ---
- title: Use your play note block
+ title: gebruik je speel noot blok
  ---
 
 ```blocks3
@@ -90,44 +90,44 @@ end
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Debug:** Mogelijk vind je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten.
 
 --- collapse ---
 ---
-title: My instrument does not play anything when my sprite touches it
+title: Mijn instrument speelt niets wanneer mijn sprite het aanraakt
 ---
 
-Did you use the **colour picker** to select the colour that plays a note, on your `touching color`{:class='block3sensing'} blocks?
+Heb je de **kleurenkiezer** gebruikt om de kleur te selecteren die een noot afspeelt, op je `raak ik kleur`{:class='block3sensing'} blokken?
 
-![The 'select colour' interface shown, with the colour picker highlighted.](images/touching-color.png)
+![De 'kleur selecteren'-interface wordt weergegeven, met de kleurkiezer gemarkeerd.](images/touching-color.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My instrument only plays one note
+title: Mijn instrument speelt slechts één noot
 ---
 
-Add as many different colours as notes wanted. Sometimes when you have very similar shades of colour, it may recognise them as the same colour (and therefore play the same note).
+Voeg zoveel verschillende kleuren toe als je wilt. Soms wanneer je heel vergelijkbare kleurschakeringen hebt, worden ze gezien als dezelfde kleur (en wordt dus dezelfde noot gespeeld).
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: The music plays too quickly or too slowly
+title: De muziek wordt te snel of te langzaam afgespeeld
 ---
 
-You can change the length of time that a note plays for, and the length of time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+Je kunt bepalen hoe lang een noot wordt afgespeeld en ook de tijdsduur tussen noten veranderen. In je `speel noot:`{:class='block3myblocks'} blok pas je de `beats`{:class='block3myblocks'} en `rust`{:class='block3myblocks'} waarden aan. Verhoog ze om de muziek te vertragen, en verlaag ze om te versnellen.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The instrument plays a note repeatedly until I try another note
+title: Het instrument speelt steeds dezelfde noot af totdat ik een andere noot probeer
 ---
 
-Then instrument will replay a note depending on the length of time the note is played for. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+Vervolgens speelt het instrument een noot, afhankelijk van de tijdsduur dat de noot wordt afgespeeld. In je `speel noot:`{:class='block3myblocks'} blok pas je de `beats`{:class='block3myblocks'} en `rust`{:class='block3myblocks'} waarden aan. Verhoog ze om de muziek te vertragen, en verlaag ze om het te versnellen.
 
 --- /collapse ---
 
