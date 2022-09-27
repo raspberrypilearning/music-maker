@@ -1,7 +1,7 @@
-play note
+speel noot
 
-note
+noot
 
 beats
 
-rest
+rust
