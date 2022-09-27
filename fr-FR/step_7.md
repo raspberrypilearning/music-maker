@@ -1,25 +1,25 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you can upgrade your project.
+Si tu as le temps, tu peux perfectionner ton projet.
 
-You have an awesome instrument and soundscape — you can add other layers to the music to make a band, an accompaniment, or add some beats.
+Tu disposes d'un instrument et d'un paysage sonore exceptionnels. Tu peux ajouter d'autres couches à la musique pour créer un groupe, un accompagnement ou ajouter des rythmes.
 
-Here are some ideas you could try:
-- Add other instruments
-- Add some beats
-- Create a band or choir
+Voici quelques idées que tu peux essayer :
+- Ajouter d'autres instruments
+- Ajouter des rythmes
+- Créer un groupe ou un chœur
 
-You used colour to play notes in this project. Can you think of other ways you can play notes in Scratch?
+Tu as utilisé la couleur pour jouer des notes dans ce projet. Peux-tu penser à d'autres façons de jouer des notes dans Scratch ?
 
-Here are some ideas:
-- Play notes depending on where on the Stage the mouse-pointer is
-- Play notes through key presses
-- Introduce 'random' to procedurally generate music
-- Make a 'copy the tune' game where Scratch plays a tune for the user to copy using the instrument
+Voici quelques idées :
+- Jouer des notes en fonction de l'endroit où se trouve le pointeur de la souris sur la scène
+- Jouer des notes en appuyant sur des touches
+- Introduire "aléatoire" pour générer de la musique de manière procédurale
+- Créer un jeu "copier la mélodie" où Scratch joue une mélodie que l'utilisateur peut copier à l'aide de l'instrument
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Chaque exemple de projet dans [l'introduction](.) a un lien **Voir à l'intérieur** pour te permettre d'ouvrir le projet dans Scratch et de regarder le code pour avoir des idées et voir comment ils fonctionnent.
 
-Take a look at our [Music maker Scratch studio](https://scratch.mit.edu/studios/30122192){:target="_blank"} to see projects created by community members.
+Jette un œil à notre studio [Music maker Scratch](https://scratch.mit.edu/studios/30122192){:target="_blank"} pour voir les projets créés par les membres de la communauté.
 
 --- save ---
 
