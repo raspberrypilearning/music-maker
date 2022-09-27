@@ -1,4 +1,4 @@
-## You will make
+## Tu feras
 
 Conçois ton propre créateur de musique numérique ! Invente un instrument de musique virtuel et expérimente-le avec des sons, des couleurs et plus encore.
 
@@ -15,13 +15,13 @@ Tu vas devoir :
 
 --- no-print ---
 
-### Play ▶️
+### Joue ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Hover with your cursor (or finger if you are on a tablet), over different parts of the flower. Que peux-tu entendre ? Essaye de changer le son en cliquant sur les instruments en haut.
+Survole avec ton curseur (ou ton doigt si tu es sur une tablette) différentes parties de la fleur. Que peux-tu entendre ? Essaye de changer le son en cliquant sur les instruments en haut.
 
 </div>
 <div>
@@ -34,7 +34,7 @@ Hover with your cursor (or finger if you are on a tablet), over different parts 
 
 --- /task ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 Tu vas prendre certaines décisions de conception pour créer ton propre instrument, en décidant comment il interagit et quels sons il fait.
 
@@ -60,7 +60,7 @@ Explore ces exemples de projets pour obtenir plus d'idées :
 
 --- print-only ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 Tu vas prendre certaines décisions de conception pour créer ton propre instrument, en décidant comment il interagit et quels sons il fait. Voir dans les exemples de projets ci-dessous pour t'inspirer.
 
