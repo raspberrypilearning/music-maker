@@ -1,4 +1,4 @@
-## Introduction
+## You will make
 
 Design your own digital music maker! Invent a virtual musical instrument and experiment with sounds, colour, and more.
 
@@ -15,13 +15,12 @@ You will:
 
 --- no-print ---
 
+### Play ▶️
+
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-
-### Try it 
-
 Hover with your cursor (or finger if you are on a tablet), over different parts of the flower. What can you hear? Try changing the sound by clicking on the instruments at the top.
 
 </div>
@@ -35,7 +34,7 @@ Hover with your cursor (or finger if you are on a tablet), over different parts 
 
 --- /task ---
 
-### Get inspiration
+### Get ideas 💭
 
 You are going to make some design decisions to create your own instrument, deciding how it interacts and what it sounds like.
 
@@ -61,7 +60,7 @@ Explore these example projects to get more ideas:
 
 --- print-only ---
 
-### Get inspiration
+### Get ideas 💭
 
 You are going to make some design decisions to create your own instrument, deciding how it interacts and what it sounds like. See inside the example projects below for inspiration.
 
