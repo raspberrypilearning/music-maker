@@ -2,10 +2,10 @@
 --- question ---
 
 ---
-legend: Question 2 of 3
+legend: Vraag 2 van 3
 ---
 
-Here is a `my blocks`{:class='block3myblocks'} definition.
+Hier is een `Mijn blokken`{:class='block3myblocks'} definitie.
 
 ```blocks3
 define play note: (note) beats (beats) rest (rest)
@@ -13,7 +13,7 @@ play note (note) for (beats) beats
 rest for (rest) beats
 ```
 
-Which of the following blocks would play `middle C` for `0.25` beats and rest of `0.5` beats?
+Welke van de volgende blokken zouden `middelste C` afspelen voor `0.25` beats en een rust van `0.5` beats?
 
 --- choices ---
 
@@ -25,7 +25,7 @@ play note: (60) beats (0.25) rest (0.5)::custom
 
   --- feedback ---
 
-  Yes, the midi value '60' plays the note 'middle C' for 0.25 beats, and then the instrument rests for 0,5 beats.
+  Ja, de midi-waarde '60' speelt de toon 'centrale C' voor 0.25 beats, en dan rust het instrument voor 0.5 beats.
 
   --- /feedback ---
 
@@ -36,7 +36,7 @@ play note: (50) beats (0.25) rest (0.25)::custom
 
   --- feedback ---
 
-  The length of the note here is correct, however double check what note the number '50' plays, and make sure you have rested for long enough.
+  De lengte van de noot hier is correct, maar controleer wat de noot '50' speelt, en zorg ervoor dat je rust lang genoeg is.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ play note: (60) beats (0.25) rest (0.25)::custom
 
   --- feedback ---
 
-The midi value '60' plays the note 'middle C' for 0.25 beats, and then the instrument rests for 0,25 beats. However, the rest time does not match the question.
+De midi-waarde '60' speelt de toon 'centrale C' voor 0.25 beats, en vervolgens rust het instrument voor 0,25 beats. De rusttijd komt echter niet overeen met de vraag.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ play note: (60) beats (0.5) rest (0.25)::custom
 
   --- feedback ---
 
-  You have the right note (midi value '60') for 'Middle C' and the right amount of rest, however the instrument will play the note for too long.
+  Je hebt de juiste noot (midi waarde '60') voor 'centrale C' en de juiste hoeveelheid rust, maar het instrument zal de noot te lang afspelen.
 
   --- /feedback ---
 
