@@ -1,63 +1,63 @@
-## Create an instrument
+## Créer un instrument
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You will create a new sprite that will play sounds depending on where the user places their mouse-pointer, or interacts with the scene.
+Tu vas créer un nouveau sprite qui jouera des sons en fonction de l'endroit où l'utilisateur place le curseur de sa souris ou interagit avec la scène.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-2-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  Ton navigateur ne prend pas en charge le format de vidéo mp4.
 </video> 
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Ouvre un [nouveau projet Scratch](http://rpf.io/scratch-new){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 [[[working-offline]]]
 
 --- /task ---
 
-Your **instrument** sprite will play different notes, depending on the colours that make up the instrument sprite. You will need to choose what your instrument looks like. Do you want your instrument to look like a traditional instrument or something you see in your house or outside?
+Ton sprite instrument jouera des notes différentes, selon les couleurs qui composent le sprite instrument. Tu devras choisir à quoi ressemble ton instrument. Veux-tu que ton instrument ressemble à un instrument traditionnel ou à quelque chose que tu vois dans ta maison ou à l'extérieur ?
 
 --- task ---
 
-**Choose:** What will your **instrument** sprite look like? Use the **Paint** tool to create it. In the example below, the instrument looks like a flower.
+Choisir : à quoi ressemblera ton sprite instrument ? Utilise l'outil **Peindre** pour le créer. Dans l'exemple ci-dessous, l'instrument ressemble à une fleur.
 
-![A sprite shaped like a flower with petals of different colours.](images/flower.png)
+![Un sprite en forme de fleur avec des pétales de différentes couleurs.](images/flower.png)
 
-Think about how many different sounds you want your instrument to play. Make sure your instrument has at least that many different colours.
+Pense au nombre de sons différents que tu veux que ton instrument joue. Assure-toi que ton instrument possède au moins autant de couleurs différentes.
 
 --- /task ---
 
 --- task ---
 
-Create your **instrument** sprite.
+Créer ton sprite instrument.
 
-Do you want to:
-- Add a sprite from the sprite list?
-- Adapt a sprite from the sprite list to make something new?
-- Upload a sprite?
-- Paint your own sprite?
+Veux-tu :
+- Ajouter un sprite depuis la liste de sprite ?
+- Adapter un sprite depuis la liste de sprite pour en faire un nouveau ?
+- Télécharger un sprite ?
+- Peindre ton propre sprite ?
 
 --- collapse ---
 ---
-title: Adapting sprites
+title : Adapter les sprites
 ---
 
-This groovy keyboard was adapted from the **Snake** sprite:
+Ce clavier groovy a été adapté du sprite **Snake**:
 
-![Groovy keyboard example.](images/groovy-keyboard.png)
+![Exemple du clavier groovy.](images/groovy-keyboard.png)
 
-![Scratch Snake sprite.](images/snake-sprite.png)
+![Sprite Snake de Scratch.](images/snake-sprite.png)
 
-To adapt sprites, select the sprite you want and go to the paint editor.
+Pour adapter les sprites, sélectionne le sprite souhaité et accéde à l'éditeur de peinture.
 
-If you just want part of the sprite, you can crop it.
+Si tu veux juste une partie du sprite, tu peux le recadrer.
 
-If you want just the outline of the sprite, convert it to a bitmap and use the **Fill** tool.
+Si tu veux juste le contour du sprite, convertis-le en bitmap et utilise l'outil Remplissage.
 
 --- /collapse ---
 
@@ -65,18 +65,18 @@ If you want just the outline of the sprite, convert it to a bitmap and use the *
 
 --- collapse ---
 ---
-title: Finding images you can use
+title : Trouver des images que tu peux utiliser
 ---
 
-The person or company that creates an image, either using graphics programs or with a camera, owns the rights to that image. This means that you can not use the image without asking their permission first.
+La personne ou l'entreprise qui crée une image, soit à l'aide de programmes graphiques, soit avec un appareil photo, détient les droits sur cette image. Cela signifie que tu ne peux pas utiliser l'image sans demander d'abord leur autorisation.
 
-Sometimes images have a **license** that allows them to be used without asking for permission first. Search engines like Google allow you to search for these types of images.
+Parfois, les images ont une licence qui leur permet d'être utilisées sans demander d'autorisation préalable. Des moteurs de recherche comme Google te permettent de rechercher ce type d'image.
 
-![Search for images of kittens with the Creative Commons License selected.](images/google-search.png)
+![Rechercher des images de chatons avec la licence Creative Commons sélectionnée.](images/google-search.png)
 
-Most of these images will require you to **attribute** the creator. So you should add a link to the website you found them on; you could add this in to the **Notes and Credits** section of you project page.
+La plupart de ces images te demanderont de l'**attribuer** au créateur. Tu dois donc ajouter un lien vers le site Web sur lequel tu les as trouvés ; tu peux l'ajouter à la section **Notes and Credits** de la page de ton projet.
 
-![Scratch project page with 'Notes and Credits' box highlighted.](images/project-page.png)
+![Page du projet Scratch avec la case "Notes et Crédits" en surbrillance.](images/project-page.png)
 
 --- /collapse ---
 
@@ -84,14 +84,14 @@ Most of these images will require you to **attribute** the creator. So you shoul
 
 --- collapse ---
 ---
-title: Uploading a sprite to Scratch
+title : Télécharger un sprite dans Scratch
 ---
 
-- Use the **Choose a Sprite** menu and select **Upload Sprite**.
+- Utilise le menu **Choisir un Sprite** et sélectionne **Importer un Sprite**.
 
-![The 'Choose a Sprite' menu with 'Upload Sprite' selected.](images/upload-sprite.png)
+![Le menu "Choisir un Sprite" avec "Importer un Sprite" sélectionné.](images/upload-sprite.png)
 
-- Use your file browser to select the sprite you wish to upload.
+- Utilise ton navigateur de fichiers pour sélectionner le sprite que tu souhaites télécharger.
 
 --- /collapse ---
 
@@ -99,7 +99,7 @@ title: Uploading a sprite to Scratch
 
 --- task ---
 
-**Debug:** You may have done a lot of debugging already! Did you change the direction your sprite was pointing? Did you solve any problems? Think about all the debugging you have already done to create your musical instrument.
+**Débogage :** Tu as peut-être déjà fait beaucoup de débogage ! As-tu changé la direction de ton sprite ? As-tu résolu des problèmes ? Pense à tout le débogage que tu as déjà effectué pour créer ton instrument de musique.
 
 --- /task ---
 
