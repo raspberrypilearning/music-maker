@@ -1,63 +1,63 @@
-## Create an instrument
+## Maak een instrument
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-You will create a new sprite that will play sounds depending on where the user places their mouse-pointer, or interacts with the scene.
+Je maakt een nieuwe sprite die geluiden zal afspelen, afhankelijk van waar de gebruiker de muisaanwijzer plaatst of met de scène communiceert.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-2-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  Je browser ondersteunt geen mp4-video.
 </video> 
 </div>
 </div>
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open een [nieuw Scratch-project](http://rpf.io/scratch-new){:target="_blank"}. Scratch wordt in een nieuw browsertabblad geopend.
 
 [[[working-offline]]]
 
 --- /task ---
 
-Your **instrument** sprite will play different notes, depending on the colours that make up the instrument sprite. You will need to choose what your instrument looks like. Do you want your instrument to look like a traditional instrument or something you see in your house or outside?
+Je **instrument** sprite speelt verschillende noten, afhankelijk van de kleuren waaruit de instrument-sprite bestaat. Je moet kiezen hoe je instrument eruit ziet. Wil je dat je instrument eruit ziet als een traditioneel instrument of iets wat je in je huis of buiten ziet?
 
 --- task ---
 
-**Choose:** What will your **instrument** sprite look like? Use the **Paint** tool to create it. In the example below, the instrument looks like a flower.
+**Kies:** Hoe ziet je **instrument** sprite eruit? Gebruik het **Teken** gereedschap om het te maken. In het onderstaande voorbeeld ziet het instrument eruit als een bloem.
 
-![A sprite shaped like a flower with petals of different colours.](images/flower.png)
+![Een sprite in de vorm van een bloem met bloemblaadjes van verschillende kleuren.](images/flower.png)
 
-Think about how many different sounds you want your instrument to play. Make sure your instrument has at least that many different colours.
+Bedenk hoeveel verschillende geluiden je wilt dat je instrument speelt. Zorg ervoor dat je instrument minstens evenveel verschillende kleuren heeft.
 
 --- /task ---
 
 --- task ---
 
-Create your **instrument** sprite.
+Maak je **instrument** sprite.
 
-Do you want to:
-- Add a sprite from the sprite list?
-- Adapt a sprite from the sprite list to make something new?
-- Upload a sprite?
-- Paint your own sprite?
+Wil je:
+- Een sprite uit de sprite-lijst toevoegen?
+- Een sprite uit de spritelijst aanpassen om iets nieuws te maken?
+- Een sprite uploaden?
+- Je eigen sprite tekenen?
 
 --- collapse ---
 ---
-title: Adapting sprites
+Title: Sprites aanpassen
 ---
 
-This groovy keyboard was adapted from the **Snake** sprite:
+Dit groovy toetsenbord werd aangepast van de **Snake** sprite:
 
-![Groovy keyboard example.](images/groovy-keyboard.png)
+![Groovy keyboard voorbeeld.](images/groovy-keyboard.png)
 
 ![Scratch Snake sprite.](images/snake-sprite.png)
 
-To adapt sprites, select the sprite you want and go to the paint editor.
+Om sprites aan te passen, selecteer je de sprite die je wilt en ga je naar de teken editor.
 
-If you just want part of the sprite, you can crop it.
+Als je gewoon een deel van de sprite wilt, kun je die bijsnijden.
 
-If you want just the outline of the sprite, convert it to a bitmap and use the **Fill** tool.
+Als je alleen de omtrek van de sprite wilt, converteer deze dan naar een bitmap en gebruik het **vullen** gereedschap.
 
 --- /collapse ---
 
@@ -65,18 +65,18 @@ If you want just the outline of the sprite, convert it to a bitmap and use the *
 
 --- collapse ---
 ---
-title: Finding images you can use
+title: Afbeeldingen zoeken die je kunt gebruiken
 ---
 
-The person or company that creates an image, either using graphics programs or with a camera, owns the rights to that image. This means that you can not use the image without asking their permission first.
+De persoon of het bedrijf dat een afbeelding maakt met behulp van grafische programma's of met een camera, is eigenaar van de rechten op die afbeelding. Dit betekent dat je de afbeelding niet kunt gebruiken zonder eerst hun toestemming te vragen.
 
-Sometimes images have a **license** that allows them to be used without asking for permission first. Search engines like Google allow you to search for these types of images.
+Soms hebben afbeeldingen een **licentie** waarmee ze kunnen worden gebruikt zonder eerst om toestemming te vragen. Met zoekmachines zoals Google kun je naar dit soort afbeeldingen te zoeken.
 
-![Search for images of kittens with the Creative Commons License selected.](images/google-search.png)
+![Zoek naar afbeeldingen van jonge katjes met een Creative Commons License.](images/google-search.png)
 
-Most of these images will require you to **attribute** the creator. So you should add a link to the website you found them on; you could add this in to the **Notes and Credits** section of you project page.
+Voor de meeste van deze afbeeldingen moet je de maker **vermelden**. Je zou dus een link moeten toevoegen naar de website waarop je ze hebt gevonden; je zou deze kunnen toevoegen aan de **notities en credits** sectie van je projectpagina.
 
-![Scratch project page with 'Notes and Credits' box highlighted.](images/project-page.png)
+![Scratch project pagina met 'notities en credits' vak gemarkeerd.](images/project-page.png)
 
 --- /collapse ---
 
@@ -84,14 +84,14 @@ Most of these images will require you to **attribute** the creator. So you shoul
 
 --- collapse ---
 ---
-title: Uploading a sprite to Scratch
+title: Een sprite uploaden naar Scratch
 ---
 
-- Use the **Choose a Sprite** menu and select **Upload Sprite**.
+- Gebruik het **Kies een Sprite** menu en selecteer **Upload Sprite**.
 
-![The 'Choose a Sprite' menu with 'Upload Sprite' selected.](images/upload-sprite.png)
+![Het 'Kies een sprite' menu met 'Upload sprite' geselecteerd.](images/upload-sprite.png)
 
-- Use your file browser to select the sprite you wish to upload.
+- Gebruik je bestandsbrowser om de sprite te te selecteren die je wilt uploaden.
 
 --- /collapse ---
 
@@ -99,7 +99,7 @@ title: Uploading a sprite to Scratch
 
 --- task ---
 
-**Debug:** You may have done a lot of debugging already! Did you change the direction your sprite was pointing? Did you solve any problems? Think about all the debugging you have already done to create your musical instrument.
+**Debug:** je hebt misschien al veel foutopsporing gedaan! Heb je de richting van je sprite veranderd? Heb je problemen opgelost? Denk aan alle foutopsporing die je al hebt gedaan om je muziekinstrument te maken.
 
 --- /task ---
 
