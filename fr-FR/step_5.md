@@ -1,37 +1,37 @@
-## Create a soundscape
+## Créer un paysage sonore
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Music is experienced by people in many different ways. Sometimes music includes visuals, beats, a band, art, dancing, and even things like echos and animal sounds. Create a soundscape for your music maker.
+La musique est vécue par les gens de différentes manières. Parfois, la musique comprend des éléments visuels, des rythmes, un groupe, de l'art, de la danse et même des éléments tels que des échos et des sons d'animaux. Crée un paysage sonore pour ton créateur de musique.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-5-demo.mp4" type="video/mp4">
-  Add additional sprites to your project, which play sounds, move, change appearance, or otherwise develop the soundscape.
+  Ajoute des sprites supplémentaires à ton projet, qui jouent des sons, se déplacent, changent d'apparence, ou développe autrement le paysage sonore.
 </video>
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> A **soundscape**</span> is the environment or context of music as experienced by people. The setting is an important part of any musical experience, as are other noises or musical layers. 
+Un "paysage sonore" est l'environnement ou le contexte de la musique tel qu'il est vécu par les gens. Le cadre est une partie importante de toute expérience musicale, tout comme les autres bruits ou couches musicales. 
 </p>
 
-Think about your instrument and what it sounds like. What would you like to add to create a soundscape?
+Pense à ton instrument et à sa sonorité. Que voudrais-tu ajouter pour créer un paysage sonore ?
 
-You can **See inside** the example projects to look at how they work.
+Tu peux « Voir à l'intérieur » des exemples de projets pour voir comment ils fonctionnent.
 
-Example projects:
-- [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
+Exemples de projets:
+- [Clavier groovy](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
 
-- [Musical fish](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
+- [Poisson musical](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
 
-- [Musical flowers](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
+- [Fleurs musicales](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 
-**Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project.
+**Astuce :** Utilise le **sac à dos** pour copier des scripts ou des sprites et les utiliser dans ton projet.
 
 [[[scratch-backpack]]]
 
-You could add to the theme of your soundscape.
+Tu peux ajouter au thème de ton paysage sonore.
 
 --- task ---
 
@@ -43,11 +43,11 @@ You could add to the theme of your soundscape.
 
 --- /task ---
 
-Your instrument could play along to some background music, or you could add other sprites that make sounds (for example, a bird chirping). You could even add in a song you like.
+Ton instrument pourrait jouer sur une musique de fond, ou tu pourrais ajouter d'autres sprites qui émettent des sons (par exemple, un oiseau qui gazouille). Tu peux même ajouter une chanson que tu aimes.
 
 --- task ---
 
-Add more sounds to your music maker.
+Ajouter plus de sons à ton créateur de musique.
 
 [[[scratch3-add-sound]]]
 
@@ -57,7 +57,7 @@ Add more sounds to your music maker.
 
 --- /task ---
 
-You can make your music maker more interactive. Does it move? If you have any characters, do they emote?
+Tu peux rendre ton créateur de musique plus interactif. Est-ce qu'il bouge? Si tu as des personnages, est-ce qu'ils s'animent ?
 
 --- task ---
 
