@@ -1,10 +1,10 @@
-## What next?
+## Et ensuite ?
 
-If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Welcome to my world](https://projects.raspberrypi.org/en/projects/welcome-to-my-world) project. In this project, you will create your own virtual world.
+Si tu suis le parcours [Plus de Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch), tu peux passer au projet [Bienvenue dans mon monde](https://projects.raspberrypi.org/en/projects/welcome-to-my-world). Dans ce projet, tu vas créer ton propre monde virtuel.
 
 --- print-only ---
 
-![Welcome to my world project](images/world_road.png)
+![Projet Bienvenu(e) dans mon monde](images/world_road.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Further Scratch](https://projects.raspberrypi.org/en/p
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Si tu veux t'amuser davantage en explorant Scratch, tu peux essayer n'importe lequel de [ces projets](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
