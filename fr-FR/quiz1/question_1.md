@@ -1,8 +1,8 @@
-## Quick quiz
+## Questionnaire rapide
 
-Answer the two questions. There are hints to guide you to the correct answer.
+Réponds aux deux questions. Il y a des indices pour te guider vers la bonne réponse.
 
-When you have answered each question, click on **Check my answer**.
+Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
 
 Amuse-toi bien !
 
