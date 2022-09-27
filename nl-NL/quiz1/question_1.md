@@ -1,30 +1,24 @@
-## Reflection
+## Quick quiz
 
-Well done, you used your skills to design and create a music maker and soundscape!
+Answer the two questions. There are hints to guide you to the correct answer.
 
-You used `Events`{:class='block3events'}, `Control`{:class='block3control'}, `Sensing`{:class='block3sensing'}, `My Blocks`{:class='block3myblocks'}, and `Music`{:class='block3myblocks'}.
+When you have answered each question, click on **Check my answer**.
 
-Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
-
-Answer the three questions below to reflect on what you've learned.
-
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
-
-Have fun!
+Veel plezier!
 
 --- question ---
 
 ---
-legend: Question 1 of 3
+legend: Vraag 1 van 3
 ---
 
-In your project, you created a musical instrument that plays a note for each colour pressed or hovered over.
+In je project heb je een muziekinstrument gemaakt dat een noot speelt voor elke kleur die wordt ingedrukt of aangeraakt.
 
-Here is an example instrument sprite:
+Hier is een voorbeeld instrument sprite:
 
-![5 concentric circles of different colours](images/circle-instrument.png)
+![5 cirkels met verschillende kleuren](images/circle-instrument.png)
 
-How many if then blocks would you need to be able to play this instrument
+Hoeveel 'als dan' blokken zou je nodig hebben om dit instrument te kunnen spelen
 
 --- choices ---
 
@@ -32,7 +26,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  Many instruments will  play a musical octave, which is 8 notes, however the example instrument has less colours.
+  Veel instrumenten kunnen een muzikaal octaaf spelen, dat is 8 noten, maar het voorbeeldinstrument heeft minder kleuren.
 
   --- /feedback ---
 
@@ -40,7 +34,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  You would need one `Forever`{:class='block3control'} block, but how many notes does the instrument play?
+  Je zou een `Herhaal`{:class='block3control'} blok nodig hebben, maar hoeveel noten speelt het instrument?
 
   --- /feedback ---
 
@@ -48,7 +42,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  Yes, you would need a different block for each colour
+  Ja, je hebt voor elke kleur een ander blok nodig
 
   --- /feedback ---
 
