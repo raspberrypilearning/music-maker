@@ -8,7 +8,7 @@ copyedit: true
 last_tested: "2021-06-11"
 steps:
   - 
-    title: You will make
+    title: Tu feras
   - 
     title: Créer un instrument
   - 
@@ -22,7 +22,7 @@ steps:
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Questionnaire rapide
     knowledge_quiz:
       path: quiz1
       version: 1
