@@ -1,7 +1,7 @@
-play note
+jouer une note
 
 note
 
-beats
+battements
 
-rest
+silence
