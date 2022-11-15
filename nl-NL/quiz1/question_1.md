@@ -1,8 +1,8 @@
-## Quick quiz
+## Snelle quiz
 
-Answer the two questions. There are hints to guide you to the correct answer.
+Beantwoord de twee vragen. Er zijn tips om je naar het juiste antwoord te leiden.
 
-When you have answered each question, click on **Check my answer**.
+Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
 
 Veel plezier!
 
