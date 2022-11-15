@@ -1,4 +1,4 @@
-## You will make
+## Je gaat maken
 
 Ontwerp je eigen digitale muziekmaker! Verzin een virtueel muziekinstrument en experimenteer met geluiden, kleuren en meer.
 
@@ -15,13 +15,13 @@ Je gaat:
 
 --- no-print ---
 
-### Play ▶️
+### Afspelen ▶️
 
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Hover with your cursor (or finger if you are on a tablet), over different parts of the flower. Wat kun je horen? Probeer het geluid te veranderen door op de instrumenten bovenaan te klikken.
+Beweeg met je cursor (of vinger als je op een tablet zit) over verschillende delen van de bloem. Wat kun je horen? Probeer het geluid te veranderen door op de instrumenten bovenaan te klikken.
 
 </div>
 <div>
@@ -34,7 +34,7 @@ Hover with your cursor (or finger if you are on a tablet), over different parts 
 
 --- /task ---
 
-### Get ideas 💭
+### Doe inspiratie op 💭
 
 Je gaat een aantal ontwerpbeslissingen nemen om je eigen instrument te maken en te beslissen hoe alles samenwerkt en hoe het klinkt.
 
@@ -52,7 +52,7 @@ Bekijk deze voorbeeldprojecten om meer ideeën op te doen:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/106040821/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Musical flowers**: [See inside](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
+**Muzikale bloemen**: [Bekijk van binnen](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -60,11 +60,11 @@ Bekijk deze voorbeeldprojecten om meer ideeën op te doen:
 
 --- print-only ---
 
-### Get ideas 💭
+### Doe inspiratie op 💭
 
 Je gaat een aantal ontwerpbeslissingen nemen om je eigen instrument te maken en te beslissen hoe alles samenwerkt en hoe het klinkt. Kijk in de voorbeeldprojecten hieronder voor inspiratie.
 
-![Musical flowers screenshot.](images/musical-flowers.png) Scratch 1: Muzikale bloemen – voorbeelden : https://scratch.mit.edu/studios/520146902/ Scratch studio.
+![Muzikale bloemen schermafdruk.](images/musical-flowers.png) Scratch 1: Muzikale bloemen – voorbeelden : https://scratch.mit.edu/studios/520146902/ Scratch studio.
 
 ![Groovy keyboard schermafdruk.](images/groovy-keyboard.png) Scratch 1: Groovy keyboard – voorbeelden : https://scratch.mit.edu/studios/546067020 Scratch studio.
 
