@@ -1,0 +1,29 @@
+---
+title: Muziekmaker
+hero_image: images/banner.png
+description: Ontwerp je eigen muziekinstrument.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-06-11"
+steps:
+  - title: Je gaat maken
+  - title: Maak een instrument
+  - title: Speel muziek af
+    completion:
+      - engaged
+  - title: Verander het geluid
+  - title: Maak een geluidslandschap
+    completion:
+      - internal
+  - title: Snelle quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 2
+      passing_score: 2
+    completion:
+      - external
+  - title: Verbeter je project
+  - title: Deel
+  - title: Wat kun je verder nog doen?
