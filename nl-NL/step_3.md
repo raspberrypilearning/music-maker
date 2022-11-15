@@ -48,7 +48,7 @@ Maak een `Mijn blokken`{:class='block3myblocks'} blok dat invoer heeft voor zove
 
 --- collapse ---
 ---
-title: maak je eigen muziek blok
+title: Maak je eigen muziek blok
 ---
 
 ```blocks3
@@ -69,7 +69,7 @@ Wanneer de sprite die de muisaanwijzer volgt een specifieke kleur op je **instru
 
  --- collapse ---
  ---
- title: gebruik je speel noot blok
+ title: Gebruik je speel noot blok
  ---
 
 ```blocks3
