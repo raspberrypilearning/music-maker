@@ -70,7 +70,7 @@ title: Afbeeldingen zoeken die je kunt gebruiken
 
 De persoon of het bedrijf dat een afbeelding maakt met behulp van grafische programma's of met een camera, is eigenaar van de rechten op die afbeelding. Dit betekent dat je de afbeelding niet kunt gebruiken zonder eerst hun toestemming te vragen.
 
-Soms hebben afbeeldingen een **licentie** waarmee ze kunnen worden gebruikt zonder eerst om toestemming te vragen. Met zoekmachines zoals Google kun je naar dit soort afbeeldingen te zoeken.
+Soms hebben afbeeldingen een **licentie** waarmee ze kunnen worden gebruikt zonder eerst om toestemming te vragen. Met zoekmachines zoals Google kun je naar dit soort afbeeldingen zoeken.
 
 ![Zoek naar afbeeldingen van jonge katjes met een Creative Commons License.](images/google-search.png)
 
