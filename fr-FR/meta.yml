@@ -1,0 +1,29 @@
+---
+title: Créateur de musique
+hero_image: images/banner.png
+description: Concevoir ton propre instrument de musique.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-06-11"
+steps:
+  - title: Tu feras
+  - title: Créer un instrument
+  - title: Jouer de la musique
+    completion:
+      - engaged
+  - title: Changer le son
+  - title: Créer un paysage sonore
+    completion:
+      - internal
+  - title: Questionnaire rapide
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 2
+      passing_score: 2
+    completion:
+      - external
+  - title: Améliorer ton projet
+  - title: Partager
+  - title: Et ensuite ?
