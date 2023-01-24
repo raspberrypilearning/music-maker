@@ -53,7 +53,7 @@ title: Créer un bloc musical personnalisé
 
 ```blocks3
 define jouer une note : (note) battements (battements) silence (silence)
-jouer une note (note) for (battements) beats
+play note (note) for (battements) beats
 rest for (silence) beats
 ```
 
@@ -61,11 +61,11 @@ rest for (silence) beats
 
 --- /task ---
 
-Lorsque le sprite qui suit le pointeur de la souris touche une couleur spécifique sur ton sprite **instrument** , un son doit être joué. Ton créateur de musique peut utiliser le bloc `jouer note:`{:class='block3myblocks'} pour définir différents instruments, notes, rythmes et silences.
+Lorsque le sprite qui suit le pointeur de la souris touche une couleur spécifique sur ton sprite **instrument**, un son doit être joué. Ton créateur de musique peut utiliser le bloc `jouer une note :`{:class='block3myblocks'} pour définir différents instruments, notes, rythmes et silences.
 
 --- task ---
 
- Ajoute `si...alors`{:class='block3control'} blocs et les blocs `jouer note:`{:class='block3myblocks'} à ton sprite **instrument**. Ajoute autant de blocs `si...alors`{:class='block3control'} que nécessaire.
+ Ajoute `si...alors`{:class='block3control'} blocs et les blocs `jouer une note :`{:class='block3myblocks'} à ton sprite **instrument**. Ajoute autant de blocs `si...alors`{:class='block3control'} que nécessaire.
 
 --- collapse ---
 ---
@@ -118,7 +118,7 @@ Ajoute autant de couleurs différentes que de notes souhaitées. Parfois, lorsqu
 title: La musique joue trop vite ou trop lentement
 ---
 
-Tu peux modifier la durée de lecture d'une note et la durée entre les notes. Dans ton bloc `jouer note:`{:class='block3myblocks'} bloc, ajuste les valeurs de `battements`{:class='block3myblocks'} et de `silence`{:class='block3myblocks'}. Augmente-les pour ralentir la musique et diminue-les pour l'accélérer.
+Tu peux modifier la durée de lecture d'une note et la durée entre les notes. Dans ton bloc `jouer une note :`{:class='block3myblocks'} bloc, ajuste les valeurs de `battements`{:class='block3myblocks'} et de `silence`{:class='block3myblocks'}. Augmente-les pour ralentir la musique et diminue-les pour l'accélérer.
 
 --- /collapse ---
 
@@ -127,7 +127,7 @@ Tu peux modifier la durée de lecture d'une note et la durée entre les notes. D
 title: L'instrument joue une note de manière répétée jusqu'à ce que j'essaie une autre note
 ---
 
-Ensuite, l'instrument rejouera une note en fonction de la durée pendant laquelle la note est jouée. Dans ton bloc `jouer note :`{:class='block3myblocks'} bloc , ajuste les valeurs de `battements`{:class='block3myblocks'} et de `silence`{:class='block3myblocks'}. Augmente-les pour ralentir la musique et diminue-les pour l'accélérer.
+Ensuite, l'instrument rejouera une note en fonction de la durée pendant laquelle la note est jouée. Dans ton bloc `jouer une note :`{:class='block3myblocks'} bloc , ajuste les valeurs de `battements`{:class='block3myblocks'} et de `silence`{:class='block3myblocks'}. Augmente-les pour ralentir la musique et diminue-les pour l'accélérer.
 
 --- /collapse ---
 

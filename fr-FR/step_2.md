@@ -44,7 +44,7 @@ Veux-tu :
 
 --- collapse ---
 ---
-title : Adapter les sprites
+title: Adapter les sprites
 ---
 
 Ce clavier groovy a été adapté du sprite **Snake**:
@@ -84,7 +84,7 @@ La plupart de ces images te demanderont de l'**attribuer** au créateur. Tu dois
 
 --- collapse ---
 ---
-title : Télécharger un sprite dans Scratch
+title: Télécharger un sprite dans Scratch
 ---
 
 - Utilise le menu **Choisir un Sprite** et sélectionne **Importer un Sprite**.
