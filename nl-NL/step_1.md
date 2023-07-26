@@ -25,9 +25,8 @@ Beweeg met je cursor (of vinger als je op een tablet zit) over verschillende del
 
 </div>
 <div>
-**Muzikale bloemen**: [Bekijk van binnen](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -41,23 +40,15 @@ Je gaat een aantal ontwerpbeslissingen nemen om je eigen instrument te maken en 
 --- task ---
 
 Bekijk deze voorbeeldprojecten om meer ideeën op te doen:
-
-**Groovy keyboard**: [Bekijk van binnen](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/546067020/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Muzikale vis**: [Bekijk van binnen](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/106040821/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Muzikale bloemen**: [Bekijk van binnen](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
-
 --- print-only ---
 
 ### Doe inspiratie op 💭
