@@ -25,9 +25,8 @@ Survole avec ton curseur (ou ton doigt si tu es sur une tablette) différentes p
 
 </div>
 <div>
-**Fleurs musicales** : [Voir à l'intérieur](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -41,23 +40,15 @@ Tu vas prendre certaines décisions de conception pour créer ton propre instrum
 --- task ---
 
 Explore ces exemples de projets pour obtenir plus d'idées :
-
-**Clavier groovy** : [Voir à l'intérieur](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/546067020/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Poisson musical** : [Voir à l'intérieur](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/106040821/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Fleurs musicales** : [Voir à l'intérieur](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
-
 --- print-only ---
 
 ### Trouve l'inspiration 💭
