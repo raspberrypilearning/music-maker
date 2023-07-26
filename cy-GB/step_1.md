@@ -25,9 +25,8 @@ Hover with your cursor (or finger if you are on a tablet), over different parts 
 
 </div>
 <div>
-**Musical flowers**: [See inside](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -41,23 +40,15 @@ You are going to make some design decisions to create your own instrument, decid
 --- task ---
 
 Explore these example projects to get more ideas:
-
-**Groovy keyboard**: [See inside](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/546067020/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Musical fish**: [See inside](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/106040821/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**Musical flowers**: [See inside](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/520146902/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
---- /task --- --- /no-print ---
-
 --- print-only ---
 
 ### Get ideas 💭
