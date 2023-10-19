@@ -1,24 +1,24 @@
-## Quick quiz
+## Γρήγορο Κουίζ
 
-Answer the two questions. There are hints to guide you to the correct answer.
+Απάντησε στις δύο ερωτήσεις. Υπάρχουν στοιχεία που θα σε οδηγήσουν στη σωστή απάντηση.
 
-When you have answered each question, click on **Check my answer**.
+Όταν έχεις απαντήσει σε κάθε ερώτηση, πάτησε στο ** Έλεγξε την απάντησή μου**.
 
-Have fun!
+Καλή διασκέδαση!
 
 --- question ---
 
 ---
-legend: Question 1 of 3
+legend: Ερώτηση 1 από 3
 ---
 
-In your project, you created a musical instrument that plays a note for each colour pressed or hovered over.
+Στο έργο σου, έφτιαξες ένα μουσικό όργανο που παίζει μία νότα για κάθε χρώμα που πατάς ή περνάς με το ποντίκι σου.
 
-Here is an example instrument sprite:
+Παρακάτω θα βρεις ένα παράδειγμα αντικειμένου μουσικού οργάνου:
 
-![5 concentric circles of different colours](images/circle-instrument.png)
+![5 ομόκεντρους κύκλους διαφορετικών χρωμάτων](images/circle-instrument.png)
 
-How many if then blocks would you need to be able to play this instrument
+Πόσα μπλοκ εάν-τότε θα χρειαζόσουν ώστε να μπορείς να παίξεις αυτό το μουσικό όργανο
 
 --- choices ---
 
@@ -26,7 +26,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  Many instruments will  play a musical octave, which is 8 notes, however the example instrument has less colours.
+  Πολλά όργανα παίζουν μία μουσική οκτάβα, η οποία είναι 8 νότες, ωστόσο το μουσικό όργανο που έχουμε στο παράδειγμα έχει λιγότερα χρώματα.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  You would need one `Forever`{:class='block3control'} block, but how many notes does the instrument play?
+  Θα χρειαζόσουν μπλοκ `Για πάντα`{:class='block3control'}, όμως πόσες νότες παίζει το μουσικό όργανο;
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  Yes, you would need a different block for each colour
+  Ναι, θα χρειαζόσουν ένα διαφορετικό μπλοκ για κάθε χρώμα
 
   --- /feedback ---
 
