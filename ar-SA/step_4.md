@@ -1,32 +1,32 @@
-## Change the sound
+## تغيير الصوت
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add interaction so that you can choose what instrument is used when a sound is played.
+أضف تفاعلًا بحيث يمكنك اختيار الأداة المستخدمة عند تشغيل الصوت.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-4-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  متصفحك لا يدعم فيديو mp4.
 </video>
 </div>
 </div>
 
-The great thing about digital music is that you can get one instrument sprite to easily play the sounds of many different instruments.
+إن الشيء العظيم في الموسيقى الرقمية هو أنه يمكنك الحصول على آلة موسيقية واحدة لتشغيل أصوات العديد من الآلات المختلفة بسهولة.
 
 --- task ---
 
-Add some sprites to represent the different sounds you want your instrument to play. You can use instrument sprites, or choose whatever you like, it does not have to make sense.
+أضف بعض الشخصيات المتحركة لتمثيل الأصوات المختلفة التي تريد أن تعزف عليها instrument. يمكنك استخدام كائنات ادوات الموسيقة، أو اختيار ما تريد ، فليس من الضروري أن يكون له معنى.
 
-![Scratch stage with different instruments displayed, and a bunch of bananas.](images/instruments.png)
+![مسرح سكراتش بأدوات مختلفة معروضة ، وحفنة من الموز.](images/instruments.png)
 
 --- /task ---
 
-You can add code to the **pick** sprite to change the instrument that is being played when the **pick** sprite touches your additional sprites.
+يمكنك إضافة مقطع برمجي إلى كائن **pick** لتغيير الأداة التي يتم تشغيلها عندما يلمس **pick** كائنًا إضافيًا.
 
 --- task ---
 
-Add code within a `forever`{:class='block3control'} block, so that when the **pick** touches the different sprites, the instrument being played changes. For example:
+أضف مقطع برمجي داخل كتلة `للأبد`{: class = 'block3control'} ، بحيث عندما يلامس **pick** النقوش المتحركة ، تتغير الآلة الموسيقى التي يتم عزفها. على سبيل المثال:
 
 ```blocks3
 when flag clicked
@@ -37,18 +37,18 @@ end
 ```
 --- /task ---
 
-You can customise your project to play any sound you want when the **pick** touches an instrument, object, or character on the Stage.
+يمكنك تخصيص مشروعك لتشغيل أي صوت تريده عندما يلمس الاختيار **pick** آلة أو كائنًا أو شخصية على المنصة.
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة.
 
 --- collapse ---
 ---
-title: The sound changes to the wrong sound
+العنوان: يتغير الصوت إلى الصوت الخطأ
 ---
 
-Make sure the `if`{:class="block3control"} condition in your `Sensing`{:class='block3control'} block matches the instrument or sound you wanted from the `Music`{:class='block3custom'} extension.
+تأكد من أن شرط `اذا`{: class = "block3control"} في مجموعة `الاستشعار`{: class = 'block3control'} يطابق الآلة أو الصوت الذي تريده من ادراج اضافة `موسيقى`{: class = 'block3custom'} .
 
 ```blocks3
 when flag clicked
