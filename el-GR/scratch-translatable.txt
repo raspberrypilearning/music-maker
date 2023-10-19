@@ -1,7 +1,7 @@
-play note
+παίξε νότα
 
-note
+νότα
 
-beats
+χτύποι
 
-rest
+παύση
