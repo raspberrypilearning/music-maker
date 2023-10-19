@@ -1,25 +1,25 @@
-## Upgrade your project
+## Αναβάθμισε το έργο σου
 
-If you have time, you can upgrade your project.
+Εάν έχεις χρόνο, μπορείς να αναβαθμίσεις το έργο σου.
 
-You have an awesome instrument and soundscape — you can add other layers to the music to make a band, an accompaniment, or add some beats.
+Έχεις ένα φοβερό μουσικό όργανο και ηχητικό τοπίο — μπορείς να προσθέσεις κι άλλα επίπεδα στη μουσική για να δημιουργήσεις μια μπάντα, μια συνοδεία ή να προσθέσεις μερικούς χτύπους.
 
-Here are some ideas you could try:
-- Add other instruments
-- Add some beats
-- Create a band or choir
+Εδώ είναι μερικές ιδέες που μπορείς να δοκιμάσεις:
+- Πρόσθεσε κι άλλα μουσικά όργανα
+- Πρόσθεσε μερικούς χτύπους
+- Δημιούργησε μια μπάντα ή μια χορωδία
 
-You used colour to play notes in this project. Can you think of other ways you can play notes in Scratch?
+Χρησιμοποίησες χρώμα για να παίξεις νότες σε αυτό το έργο. Μπορείς να σκεφτείς άλλους τρόπους με τους οποίους μπορείς να παίξετε νότες στο Scratch;
 
-Here are some ideas:
-- Play notes depending on where on the Stage the mouse-pointer is
-- Play notes through key presses
-- Introduce 'random' to procedurally generate music
-- Make a 'copy the tune' game where Scratch plays a tune for the user to copy using the instrument
+Ακολουθούν μερικές ιδέες:
+- Παίξε νότες ανάλογα με το σημείο στο οποίο βρίσκεται ο δείκτης του ποντικιού
+- Παίξε νότες με το πάτημα των πλήκτρων
+- Κάνε αξιοποίηση του «τυχαίου» για να δημιουργήσεις μουσική διαδικαστικά
+- Δημιούργησε ένα παιχνίδι «επανάλαβε τη μελωδία» όπου το Scratch παίζει μια μελωδία την οποία πρέπει να επαναλάβει ο χρήστης χρησιμοποιώντας το μουσικό όργανο
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Κάθε παράδειγμα έργου στην [Εισαγωγή](.) έχει έναν σύνδεσμο **Δες μέσα** για να ανοίξεις το έργο και να δεις τον κώδικα για να πάρεις ιδέες και να δεις πώς λειτουργούν.
 
-Take a look at our [Music maker Scratch studio](https://scratch.mit.edu/studios/30122192){:target="_blank"} to see projects created by community members.
+Ρίξε μια ματιά στα ['Αστεία μάτια - Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/30122192){:target="_blank"} για να δεις έργα που δημιουργούνται από μέλη της κοινότητας.
 
 --- save ---
 
