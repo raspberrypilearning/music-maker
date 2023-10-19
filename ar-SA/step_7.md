@@ -1,25 +1,25 @@
-## Upgrade your project
+## قم بترقية او تطوير مشروعك
 
-If you have time, you can upgrade your project.
+إذا كان لديك الوقت ، يمكنك تطوير مشروعك.
 
-You have an awesome instrument and soundscape — you can add other layers to the music to make a band, an accompaniment, or add some beats.
+لديك آلة موسيقية رائعة ومشهد صوتي - يمكنك إضافة طبقات أخرى إلى الموسيقى لإنشاء فرقة موسيقية أو مرافقة أو إضافة بعض الإيقاعات.
 
-Here are some ideas you could try:
-- Add other instruments
-- Add some beats
-- Create a band or choir
+إليك بعض الأفكار التي يمكنك تجربتها:
+- أضف أدوات أخرى
+- أضف بعض الإيقاعات
+- قم بإنشاء فرقة أو جوقة (كورال)
 
-You used colour to play notes in this project. Can you think of other ways you can play notes in Scratch?
+لقد استخدمت اللون لتشغيل نغمات في هذا المشروع. هل يمكنك التفكير في طرق أخرى يمكنك من خلالها عزف النغمات في سكراتش؟
 
-Here are some ideas:
-- Play notes depending on where on the Stage the mouse-pointer is
-- Play notes through key presses
-- Introduce 'random' to procedurally generate music
-- Make a 'copy the tune' game where Scratch plays a tune for the user to copy using the instrument
+إليك بعض الأفكار:
+- قم بتشغيل النغمات بناءً على مكان مؤشر الماوس على المسرح
+- قم بتشغيل النغمات من خلال الضغط على المفاتيح
+- قدم "عشوائي" لتوليد الموسيقى من الناحية الإجرائية
+- اصنع لعبة "نسخ اللحن" حيث يقوم سكراتش بتشغيل نغمة للمستخدم لنسخها باستخدام الآلة
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+يحتوي كل مشروع مثال في [مقدمة](.) على رابط **انظر داخل** لكي تفتح المشروع وتنظر إلى المقاطع البرمجية للحصول على أفكار ومعرفة كيفية عملها.
 
-Take a look at our [Music maker Scratch studio](https://scratch.mit.edu/studios/30122192){:target="_blank"} to see projects created by community members.
+ألق نظرة على [معارضي في سكراتش الخاص بصانع الموسيقى](https://scratch.mit.edu/studios/30122192){: target = "_ blank"} لمشاهدة المشروعات التي أنشأها أعضاء المجتمع.
 
 --- save ---
 
