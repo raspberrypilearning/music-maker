@@ -2,10 +2,10 @@
 --- question ---
 
 ---
-legend: Question 2 of 3
+legend: Ερώτηση 2 από 3
 ---
 
-Here is a `my blocks`{:class='block3myblocks'} definition.
+Παρακάτω είναι ένα ορισμός `οι εντολές μου`{:class='block3myblocks'}.
 
 ```blocks3
 define play note: (note) beats (beats) rest (rest)
@@ -13,7 +13,7 @@ play note (note) for (beats) beats
 rest for (rest) beats
 ```
 
-Which of the following blocks would play `middle C` for `0.25` beats and rest of `0.5` beats?
+Ποιο από τα παρακάτω μπλοκ θα έπαιζε τη `μεσαία Ντο`για `0.25`χτύπους και θα έκανε παύση για `0.5`χτύπους;
 
 --- choices ---
 
@@ -25,7 +25,7 @@ play note: (60) beats (0.25) rest (0.5)::custom
 
   --- feedback ---
 
-  Yes, the midi value '60' plays the note 'middle C' for 0.25 beats, and then the instrument rests for 0,5 beats.
+  Ναι, η τιμή '60' παίζει τη νότα "μεσαίο C" για 0.25 χτύπους, και μετά το όργανο κάνει παύση για 0.5 χτύπους.
 
   --- /feedback ---
 
@@ -36,7 +36,7 @@ play note: (50) beats (0.25) rest (0.25)::custom
 
   --- feedback ---
 
-  The length of the note here is correct, however double check what note the number '50' plays, and make sure you have rested for long enough.
+  Το μήκος της νότας εδώ είναι σωστό, ωστόσο διπλοτσεκάρετε ποιά νότε ο αριθμός '50' παίζει, και βεβαιωθείτε ότι έχετε ξεκουρασθεί για αρκετό χρόνο
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ play note: (60) beats (0.25) rest (0.25)::custom
 
   --- feedback ---
 
-The midi value '60' plays the note 'middle C' for 0.25 beats, and then the instrument rests for 0,25 beats. However, the rest time does not match the question.
+Η τιμή '60' παίζει τη νότα 'μεσαία Ντο' για 0.25 χτύπους, και μετά το όργανο κάνει παύση για 0.25 χτύπους. Ωστόσο, ο χρόνος παύσης δεν αντιστοιχεί στην ερώτηση.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ play note: (60) beats (0.5) rest (0.25)::custom
 
   --- feedback ---
 
-  You have the right note (midi value '60') for 'Middle C' and the right amount of rest, however the instrument will play the note for too long.
+  Έχεις τη σωστή νότα (τιμής midi '60') για τη 'μεσαία Ντο' και τη σωστή παύση, όμως το μουσικό όργανο θα παίζει τη νότα για πολύ ώρα.
 
   --- /feedback ---
 
