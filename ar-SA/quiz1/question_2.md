@@ -2,10 +2,10 @@
 --- question ---
 
 ---
-legend: Question 2 of 3
+legend: السؤال 2 من 3
 ---
 
-Here is a `my blocks`{:class='block3myblocks'} definition.
+هنا تعريف `لبناتي`{: class = 'block3myblocks'}.
 
 ```blocks3
 define play note: (note) beats (beats) rest (rest)
@@ -13,7 +13,7 @@ play note (note) for (beats) beats
 rest for (rest) beats
 ```
 
-Which of the following blocks would play `middle C` for `0.25` beats and rest of `0.5` beats?
+أي من اللبنات التالية سيلعب `وسط C` مقابل `0.25` نبضة وبقية `0.5` نبضة؟
 
 --- choices ---
 
@@ -25,7 +25,7 @@ play note: (60) beats (0.25) rest (0.5)::custom
 
   --- feedback ---
 
-  Yes, the midi value '60' plays the note 'middle C' for 0.25 beats, and then the instrument rests for 0,5 beats.
+  نعم ، تلعب القيمة المتوسطة  "60" النغمة "C الأوسط" مقابل 0.25 نبضة ، ثم تستقر الآلة على 0.5 نبضة.
 
   --- /feedback ---
 
@@ -36,7 +36,7 @@ play note: (50) beats (0.25) rest (0.25)::custom
 
   --- feedback ---
 
-  The length of the note here is correct, however double check what note the number '50' plays, and make sure you have rested for long enough.
+  طول النغمة هنا صحيح ، ولكن تحقق مرة أخرى من النغمة التي يتم تشغيلها بواسطة الرقم "50" ، وتأكد من أنك استريح لفترة كافية.
 
   --- /feedback ---
 
@@ -47,7 +47,7 @@ play note: (60) beats (0.25) rest (0.25)::custom
 
   --- feedback ---
 
-The midi value '60' plays the note 'middle C' for 0.25 beats, and then the instrument rests for 0,25 beats. However, the rest time does not match the question.
+تلعب قيمة النغمة المتوسطة "60" النغمة "C الأوسط" لمدة 0.25 نبضة ، ثم تستقر الآلة على 0.25 نبضة. ومع ذلك ، فإن وقت الراحة لا يتطابق مع السؤال.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ play note: (60) beats (0.5) rest (0.25)::custom
 
   --- feedback ---
 
-  You have the right note (midi value '60') for 'Middle C' and the right amount of rest, however the instrument will play the note for too long.
+  لديك النغمة الصحيحة (قيمة النغمة المتوسطة '60') لـ 'متوسط C' والمقدار المناسب من الراحة ، ومع ذلك ، ستلعب الآلة النوتة الموسيقية لفترة طويلة جدًا.
 
   --- /feedback ---
 
