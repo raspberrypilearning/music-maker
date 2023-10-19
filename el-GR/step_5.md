@@ -1,37 +1,37 @@
-## Create a soundscape
+## Δημιούργησε ένα ηχητικό τοπίο
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Music is experienced by people in many different ways. Sometimes music includes visuals, beats, a band, art, dancing, and even things like echos and animal sounds. Create a soundscape for your music maker.
+Η μουσική βιώνεται από τους ανθρώπους με πολλούς διαφορετικούς τρόπους. Μερικές φορές η μουσική περιλαμβάνει γραφικά, χτύπους, ένα συγκρότημα, τέχνη, χορό, ακόμα και πράγματα όπως ηχώ και ήχους ζώων. Δημιούργησε ένα ηχητικό τοπίο για τον δημιουργό μουσικής σου.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-5-demo.mp4" type="video/mp4">
-  Add additional sprites to your project, which play sounds, move, change appearance, or otherwise develop the soundscape.
+  Πρόσθεσε επιπλέον αντικείμενα στο έργο σου, τα οποία αναπαράγουν ήχους, μετακινούνται, αλλάζουν εμφάνιση ή με άλλο τρόπο εξελίσουν το ηχητικό τοπίο.
 </video>
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> A **soundscape**</span> is the environment or context of music as experienced by people. The setting is an important part of any musical experience, as are other noises or musical layers. 
+<span style="color: #0faeb0"> Ένα **ηχητικό τοπίο**</span> είναι το περιβάλλον ή το πλαίσιο της μουσικής όπως το βιώνουν οι άνθρωποι. Το σκηνικό είναι ένα σημαντικό μέρος κάθε μουσικής εμπειρίας, όπως και άλλοι θόρυβοι ή μουσικά επίπεδα. 
 </p>
 
-Think about your instrument and what it sounds like. What would you like to add to create a soundscape?
+Σκέψου το μουσικό σου όργανο και πώς ακούγεται. Τι θα ήθελες να προσθέσεις για να δημιουργήσεις ένα ηχητικό τοπίο;
 
-You can **See inside** the example projects to look at how they work.
+Μπορείς να πατήσεις το **δείτε μέσα** στα παραδείγματα έργων για να δείς πώς λειτουργούν.
 
-Example projects:
-- [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
+Παραδείγματα έργων:
+- [Groovy πληκτρολόγιο](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
 
-- [Musical fish](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
+- [Μουσικό ψάρι](https://scratch.mit.edu/projects/106040821/editor): Δες μέσα{:target="_blank"}
 
-- [Musical flowers](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
+- [Μουσικά λουλούδια](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
 
-**Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project.
+**Συμβουλή:** Χρησιμοποιήστε το **Σακίδιο** για να αντιγράψεις scripts ή αντικείμενα και να τα χρησιμοποιήσεις στο έργο σου.
 
 [[[scratch-backpack]]]
 
-You could add to the theme of your soundscape.
+Θα μπορούσες να προσθέσεις στο θέμα του ηχητικού σου τοπίου.
 
 --- task ---
 
@@ -43,11 +43,11 @@ You could add to the theme of your soundscape.
 
 --- /task ---
 
-Your instrument could play along to some background music, or you could add other sprites that make sounds (for example, a bird chirping). You could even add in a song you like.
+Το μουσικό σου όργανο θα μπορούσε να παίξει μαζί με κάποια μουσική υπόκρουση ή μπορείς να προσθέσεις κι άλλα αντικείμενα που κάνουν ήχους (για παράδειγμα, ένα πουλί που κελαηδάει). Μπορείς ακόμη και να προσθέσεις ένα τραγούδι που σου αρέσει.
 
 --- task ---
 
-Add more sounds to your music maker.
+Πρόσθεσε περισσότερους ήχους στον μουσικό σου δημιουργό.
 
 [[[scratch3-add-sound]]]
 
@@ -57,7 +57,7 @@ Add more sounds to your music maker.
 
 --- /task ---
 
-You can make your music maker more interactive. Does it move? If you have any characters, do they emote?
+Μπορείς να κάνεις τον δημιουργό μουσικής σου πιο διαδραστικό. Κινείται; Εάν έχεις κάποιους χαρακτήρες, εκφράζουν συναισθήματα;
 
 --- task ---
 
