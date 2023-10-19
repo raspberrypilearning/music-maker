@@ -1,24 +1,24 @@
-## Quick quiz
+## اختبار سريع.
 
-Answer the two questions. There are hints to guide you to the correct answer.
+أجب عن السؤالين. هناك تلميحات لإرشادك إلى الإجابة الصحيحة.
 
-When you have answered each question, click on **Check my answer**.
+عندما تجيب كل سؤال، انقر على **تحقق إجابتي**.
 
-Have fun!
+استمتع!
 
 --- question ---
 
 ---
-legend: Question 1 of 3
+legend: السؤال 1 من 3
 ---
 
-In your project, you created a musical instrument that plays a note for each colour pressed or hovered over.
+في مشروعك، قمت بإنشاء آلة موسيقية تعزف ملاحظة لكل لون يتم الضغط عليه أو تمرير المؤشر فوقه.
 
-Here is an example instrument sprite:
+فيما يلي مثال على آلة كائن:
 
-![5 concentric circles of different colours](images/circle-instrument.png)
+![5 دوائر متحدة المركز بألوان مختلفة](images/circle-instrument.png)
 
-How many if then blocks would you need to be able to play this instrument
+كم عدد المقاطع البرمجية التي ستحتاجها حتى تتمكن من العزف على هذه الآلة
 
 --- choices ---
 
@@ -26,7 +26,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  Many instruments will  play a musical octave, which is 8 notes, however the example instrument has less colours.
+  كثير من الآلات تعزف أكتافًا موسيقية، وهي تتألف من 8 ملاحظات، ومع ذلك، الآلة المثالية في هذا السياق تحتوي على ألوان أقل.
 
   --- /feedback ---
 
@@ -34,7 +34,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  You would need one `Forever`{:class='block3control'} block, but how many notes does the instrument play?
+  ستحتاج إلى مقطع برمجي `كرر باستمرار`{: class = 'block3control'} ، ولكن كم عدد النغمات التي تعزفها الآلة؟
 
   --- /feedback ---
 
@@ -42,7 +42,7 @@ How many if then blocks would you need to be able to play this instrument
 
   --- feedback ---
 
-  Yes, you would need a different block for each colour
+  نعم، ستحتاج إلى مقطع برمجي مختلف لكل لون
 
   --- /feedback ---
 
