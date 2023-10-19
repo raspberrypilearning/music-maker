@@ -1,32 +1,32 @@
-## Play music
+## تشغيل الموسيقى
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Create a sprite that will interact with your **instrument** sprite and play sounds.
+قم بإنشاء كائن يتفاعل مع ** الآلة ** الخاصة بك ويشغل الأصوات.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-3-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  متصفحك لا يدعم فيديو mp4.
 </video>
 </div>
 </div>
 
-Your instrument will play notes when another sprite touches the different colours on your **instrument** sprite. This is similar to how a guitar plays notes when a pick touches the strings, or a piano plays notes when fingers press the keys.
+ستعزف آلتك النغمات عندما يلامس كائن آخر ألوانًا مختلفة على **آلة الموسيقية** الخاص بك. هذا مشابه لكيفية عزف الجيتار للنغمات عندما يلامس الأوتار ، أو يعزف البيانو للنغمات عندما تضغط الأصابع على المفاتيح.
 
 --- task ---
 
-Make or choose a sprite that will follow your mouse-pointer and can be used to play different notes. In the example below, we have used a simple coloured circle.
+اصنع أو اختر كائنًا سيتبع مؤشر الماوس الخاص بك ويمكن استخدامه لتشغيل نغمات مختلفة. في المثال أدناه ، استخدمنا دائرة ملونة بسيطة.
 
-![Small gold circle sprite.](images/pick.png)
+![كائن دائري صغير من الذهب.](images/pick.png)
 
 --- /task ---
 
-Now, get your sprite to follow your mouse-pointer, so that the person playing the instrument can control it.
+الآن ، اجعل كائنك يتتبع مؤشر الماوس ، حتى يتمكن الشخص الذي يعزف على الآلة من التحكم فيه.
 
 --- task ---
 
-Add code so that your new sprite follows the mouse-pointer.
+أضف التعليمات البرمجية بحيث يتبع الكائن الجديد مؤشر الماوس.
 
 ```blocks3
 when flag clicked
@@ -35,41 +35,41 @@ go to (mouse-pointer v)
 ```
 --- /task ---
 
-Use `My Blocks`{:class='block3myblocks'} to design what your instrument sounds like.
+استخدم `لبناتي`{: class = 'block3myblocks'} لتصميم شكل الآلة الموسيقية الخاصة بك.
 
-<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>Scratch uses what are called **midi** values to set the pitch of any note that is played. A **midi** value of `60` is the same as **middle C**. The higher the **midi** value, the higher the pitch of the note.
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>يستخدم Scratch ما يسمى بقيم ** midi ** لضبط طبقة الصوت لأي نغمة يتم تشغيلها. قيمة ** midi ** "60" هي نفسها ** C الأوسط **. كلما زادت قيمة ** midi ** ، زادت حدة النغمة.
 </p>
 
 --- task ---
 
-There are many elements of music that you can experiment with. You can change the notes, instrument, beats, rest, and tempo.
+هناك العديد من عناصر الموسيقى التي يمكنك تجربتها. يمكنك تغيير النغمات ، والآلة ، والإيقاعات ، توقف ، والإيقاع.
 
-Create a `My Blocks`{:class='block3myblocks'} block that has inputs for as many of these elements as you want.
+قم بإنشاء لبنة من`لبناتي/0>{: class = 'block3myblocks'} التي تحتوي على مدخلات للعديد من هذه العناصر كما تريد.</p>
 
---- collapse ---
----
-title: Create a custom musical block
----
+<p spaces-before="0">--- collapse ---</p>
 
-```blocks3
-define play note: (note) beats (beats) rest (rest)
+<hr />
+
+<h2 spaces-before="0">العنوان: إنشاء لبنة مقطع موسيقي</h2>
+
+<pre><code class="blocks3">define play note: (note) beats (beats) rest (rest)
 play note (note) for (beats) beats
 rest for (rest) beats
-```
+`</pre>
 
 --- /collapse ---
 
 --- /task ---
 
-When the sprite that is following the mouse-pointer touches a specific colour on your **instrument** sprite, a sound should be played. Your music maker can use the `play note:`{:class='block3myblocks'} block to set different instruments, notes, beats, and rests.
+عندما يلامس الكائن الذي يتبع مؤشر الماوس لونًا معينًا على كائنك **الآلة** ، يجب تشغيل الصوت. يمكن أن يستخدم صانع الموسيقى الخاص بك  `تشغيل نغمة:`{: class = 'block3myblocks'} لتعيين أدوات مختلفة ، ونغمات ، ايقاعات ، توقف.
 
 --- task ---
 
- Add `if...then`{:class='block3control'} blocks and the `play note:`{:class='block3myblocks'} blocks to your **instrument** sprite. Add as many `if...else`{:class='block3control'} blocks as you need.
+ أضف المقطع البرمجي`إذا ... والا`{: class = 'block3control'}`نغمة التشغيل:`{: class = 'block3myblocks'} إلى المقطع البرمجي كائن**الموسيقى **. أضف أي عدد من `إذا ... والا`{: class = 'block3control'} كما تريد.
 
  --- collapse ---
  ---
- title: Use your play note block
+ العنوان: استخدم المقطع نغمة اللعب الخاصة بك
  ---
 
 ```blocks3
@@ -90,44 +90,44 @@ end
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة.
 
 --- collapse ---
 ---
-title: My instrument does not play anything when my sprite touches it
+العنوان: لا تعزف الات العزف أي شيء عندما يلمسها كائني
 ---
 
-Did you use the **colour picker** to select the colour that plays a note, on your `touching color`{:class='block3sensing'} blocks?
+هل استخدمت  **ملامس الألوان** لتحديد اللون الذي يقوم بتشغيل النغمة على `ملامس اللوان`{: class = 'block3sensing'}؟
 
-![The 'select colour' interface shown, with the colour picker highlighted.](images/touching-color.png)
+![تظهر واجهة "تحديد اللون" ، مع تمييز منتقي الألوان.](images/touching-color.png)
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: My instrument only plays one note
+العنوان: تعزف الالة الموسيقية نغمة واحدة فقط
 ---
 
-Add as many different colours as notes wanted. Sometimes when you have very similar shades of colour, it may recognise them as the same colour (and therefore play the same note).
+أضف العديد من الألوان المختلفة كما تتطلب النغمات. في بعض الأحيان عندما يكون لديك ظلال لونية متشابهة جدًا ، فقد يتعرف عليها على أنها نفس اللون (وبالتالي تسمع نفس النغمة).
 
 --- /collapse ---
 
 
 --- collapse ---
 ---
-title: The music plays too quickly or too slowly
+العنوان: يتم تشغيل الموسيقى بسرعة كبيرة جدًا أو ببطء شديد
 ---
 
-You can change the length of time that a note plays for, and the length of time between notes. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+يمكنك تغيير طول الفترة الزمنية التي يتم تشغيل النوتة خلالها ، وطول الفترة الزمنية بين النغمات. في `نغمة التشغيل:`{: class = 'block3myblocks'} ، اضبط قيم `ايقاع`{: class = 'block3myblocks'} و `استراحة`{: class = 'block3myblocks'} القيم. قم بزيادتها لإبطاء الموسيقى وتقليلها لتسريعها.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The instrument plays a note repeatedly until I try another note
+العنوان: تعزف الآلة نغمة بشكل متكرر حتى فخص نغمة اخرى
 ---
 
-Then instrument will replay a note depending on the length of time the note is played for. In your `play note:`{:class='block3myblocks'} block, adjust the `beats`{:class='block3myblocks'} and `rest`{:class='block3myblocks'} values. Increase them to slow down the music, and decrease them to speed it up.
+بعد ذلك ، ستعيد الأداة تشغيل نغمة موسيقية بناءً على طول الوقت الذي يتم فيه عزف النغمة الموسيقية. في `نغمة التشغيل:`{: class = 'block3myblocks'} ، اضبط قيم `ايقاع`{: class = 'block3myblocks'} و `استراحة`{: class = 'block3myblocks'} القيم. قم بزيادتها لإبطاء الموسيقى وتقليلها لتسريعها.
 
 --- /collapse ---
 
