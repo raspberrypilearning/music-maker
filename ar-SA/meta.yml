@@ -1,30 +1,30 @@
 ---
-title: Music maker
+title: صانع الموسيقى
 hero_image: images/banner.png
-description: Design your own musical instrument.
-meta_title: Scratch coding projects for kids and teens | Music maker
-meta_description: Learn Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Design your own Scratch musical instrument and experiment with sounds.
+description: صمم آلتك الموسيقية الخاصة.
+meta_title: مشاريع البرمجة باستخدام منصة سكراتش للأطفال والمراهقين | صانع الموسيقى
+meta_description: تعلم سكراتش مع مشاريع البرمجة الخاصة بمؤسسة Raspberry Pi Foundation للأطفال والمراهقين. صمم آلة سكراتش الموسيقية الخاصة بك وقم بتجربة الأصوات.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-06-11"
 steps:
   - 
-    title: You will make
+    title: سوف تصنع
   - 
-    title: Create an instrument
+    title: قم بإنشاء أداة موسيقية
   - 
-    title: Play music
+    title: تشغيل الموسيقى
     completion:
       - engaged
   - 
-    title: Change the sound
+    title: تغيير الصوت
   - 
-    title: Create a soundscape
+    title: أنشئ مشهدًا صوتيًا
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: اختبار سريع
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -33,8 +33,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: قم بترقية او تطوير مشروعك
   - 
-    title: Share
+    title: مشاركة
   - 
-    title: What next?
+    title: ما التالي؟
