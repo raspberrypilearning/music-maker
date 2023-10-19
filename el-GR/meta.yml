@@ -1,30 +1,30 @@
 ---
-title: Music maker
+title: Δημιουργός μουσικής
 hero_image: images/banner.png
-description: Design your own musical instrument.
-meta_title: Scratch coding projects for kids and teens | Music maker
-meta_description: Learn Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Design your own Scratch musical instrument and experiment with sounds.
+description: Σχεδίασε το δικό σου μουσικό όργανο.
+meta_title: Έργα προγραμματισμού scratch για παιδιά και εφήβους | Δημιουργός Μουσικής
+meta_description: Μάθε Scratch με τα έργα προγραμματισμού του ιδρύματος Rasberry Pi για παιδιά και για εφήβους. Σχεδίασε το δικό σου μουσικό όργανο με την Scratch και πειραματίσου με τους ήχους.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-06-11"
 steps:
   - 
-    title: You will make
+    title: Τι θα φτιάξεις
   - 
-    title: Create an instrument
+    title: Δημιούργησε ένα όργανο
   - 
-    title: Play music
+    title: Παίξε μουσική
     completion:
       - engaged
   - 
-    title: Change the sound
+    title: Άλλαξε τον ήχο
   - 
-    title: Create a soundscape
+    title: Δημιούργησε ένα ηχητικό τοπίο
     completion:
       - internal
   - 
-    title: Quick quiz
+    title: Γρήγορο κουίζ
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -33,8 +33,8 @@ steps:
     completion:
       - external
   - 
-    title: Upgrade your project
+    title: Αναβάθμισε το έργο σου
   - 
-    title: Share
+    title: Κοινοποίηση
   - 
-    title: What next?
+    title: Τι ακολουθεί;
