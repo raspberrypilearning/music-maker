@@ -1,37 +1,37 @@
-## Create a soundscape
+## أنشئ مشهدًا صوتيًا
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Music is experienced by people in many different ways. Sometimes music includes visuals, beats, a band, art, dancing, and even things like echos and animal sounds. Create a soundscape for your music maker.
+يختبر الناس الموسيقى بعدة طرق مختلفة. تتضمن الموسيقى أحيانًا عناصر مرئية ونغمات وفرقة وفنًا ورقصًا وحتى أشياء مثل أصداء الصدى وأصوات الحيوانات. قم بإنشاء مشهد صوتي لصانع الموسيقى الخاص بك.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-5-demo.mp4" type="video/mp4">
-  Add additional sprites to your project, which play sounds, move, change appearance, or otherwise develop the soundscape.
+  أضف كائنات متحركة إضافية إلى مشروعك ، والتي تقوم بتشغيل الأصوات أو نقلها أو تغيير المظهر أو تطوير المشهد الصوتي بأي طريقة أخرى.
 </video>
 </div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0"> A **soundscape**</span> is the environment or context of music as experienced by people. The setting is an important part of any musical experience, as are other noises or musical layers. 
+<span style="color: #0faeb0"> ** مشهد موسيقي **</span> هو بيئة أو سياق الموسيقى كما يختبره الأشخاص. يعد الإعداد جزءًا مهمًا من أي تجربة موسيقية ، مثله مثل الأصوات الأخرى أو الطبقات الموسيقية. 
 </p>
 
-Think about your instrument and what it sounds like. What would you like to add to create a soundscape?
+فكر في اداة الموسيقية وكيف تبدو. ما الذي تريد إضافته لإنشاء مشهد صوتي؟
 
-You can **See inside** the example projects to look at how they work.
+يمكنك "رؤية ما بداخل" أمثلة المشاريع للنظر في كيفية عملها.
 
-Example projects:
-- [Groovy keyboard](https://scratch.mit.edu/projects/546067020/editor){:target="_blank"}
+مثال للمشاريع:
+- [لوحة مفاتيح رائعة](https://scratch.mit.edu/projects/546067020/editor){: target = "_ blank"}
 
-- [Musical fish](https://scratch.mit.edu/projects/106040821/editor){:target="_blank"}
+- [موسيقة السمكة](https://scratch.mit.edu/projects/106040821/editor){: target = "_ blank"}
 
-- [Musical flowers](https://scratch.mit.edu/projects/520146902/editor){:target="_blank"}
+- [موسيقية الزهور](https://scratch.mit.edu/projects/520146902/editor){: target = "_ blank"}
 
-**Tip:** Use the **Backpack** to copy scripts or sprites and use them in your project.
+**نصيحة:** استخدم **Backpack** لنسخ المقاطع البرمجية أو الكائنات المتحركة واستخدامها في مشروعك.
 
 [[[scratch-backpack]]]
 
-You could add to the theme of your soundscape.
+يمكنك إضافة إلى موضوع المشهد الصوتي الخاص بك.
 
 --- task ---
 
@@ -43,11 +43,11 @@ You could add to the theme of your soundscape.
 
 --- /task ---
 
-Your instrument could play along to some background music, or you could add other sprites that make sounds (for example, a bird chirping). You could even add in a song you like.
+يمكن أن تعزف على اداة الموسيقية مع بعض الموسيقى الخلفية ، أو يمكنك إضافة كائنات أخرى تصدر أصواتًا (على سبيل المثال ، نقيق طائر). يمكنك حتى إضافة أغنية تحبها.
 
 --- task ---
 
-Add more sounds to your music maker.
+أضف المزيد من الأصوات إلى صانع الموسيقى الخاص بك.
 
 [[[scratch3-add-sound]]]
 
@@ -57,7 +57,7 @@ Add more sounds to your music maker.
 
 --- /task ---
 
-You can make your music maker more interactive. Does it move? If you have any characters, do they emote?
+يمكنك جعل صانع الموسيقى الخاص بك أكثر تفاعلية. هل تتحرك؟ إذا كان لديك أي شخصيات ، فهل يقومون بالتعبير؟
 
 --- task ---
 
