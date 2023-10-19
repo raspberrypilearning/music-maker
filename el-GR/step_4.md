@@ -1,32 +1,32 @@
-## Change the sound
+## Άλλαξε τον ήχο
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Add interaction so that you can choose what instrument is used when a sound is played.
+Πρόσθεσε αλληλεπίδραση, ώστε να μπορείς να επιλέξεις ποιο μουσικό όργανο χρησιμοποιείται όταν ακούγεται ένας ήχος.
 </div>
 <div>
  <video width="320" height="240" controls>
   <source src="images/step-4-demo.mp4" type="video/mp4">
-  Your browser does not support mp4 video.
+  Το πρόγραμμα περιήγησής σου δεν υποστηρίζει τα αρχεία βίντεο mp4.
 </video>
 </div>
 </div>
 
-The great thing about digital music is that you can get one instrument sprite to easily play the sounds of many different instruments.
+Το υπέροχο με την ψηφιακή μουσική είναι ότι μπορείς να χρησιμοποιήσεις ένα αντικείμενο μουσικού οργάνου για να παίζεις εύκολα τους ήχους πολλών διαφορετικών μουσικώ οργάνων.
 
 --- task ---
 
-Add some sprites to represent the different sounds you want your instrument to play. You can use instrument sprites, or choose whatever you like, it does not have to make sense.
+Πρόσθεσε μερικά αντικείμενα για να αντιπροσωπεύσουν τους διαφορετικούς ήχους που θέλεις να παίζει το μουσικό όργανό σου. Μπορείς να χρησιμοποιήσεις αντικείμενα μουσικών οργάνων ή να επιλέξεις οτιδήποτε θέλεις, δεν χρειάζεται να βγάζει νόημα.
 
-![Scratch stage with different instruments displayed, and a bunch of bananas.](images/instruments.png)
+![Σκηνικό Scratch με διάφορα μουσικά όργανα που εμφανίζονται και ένα τσαμπί μπανάνες.](images/instruments.png)
 
 --- /task ---
 
-You can add code to the **pick** sprite to change the instrument that is being played when the **pick** sprite touches your additional sprites.
+Μπορείς να προσθέσεις κώδικα στο αντικείμενο **πένα** για να αλλάξεις το μουσικό όργανο που παίζεται όταν το αντικείμενο **πένα** αγγίζει τα υπόλοιπα αντικείμενά σας.
 
 --- task ---
 
-Add code within a `forever`{:class='block3control'} block, so that when the **pick** touches the different sprites, the instrument being played changes. For example:
+Πρόσθεσε κώδικα μέσα σε ένα μπλοκ `Για πάντα`{:class='block3control'}, έτσι ώστε όταν η **πένα** αγγίζει τα διαφορετικά αντικείμενα, το μουσικό όργανο που παίζεται να αλλάζει. Για παράδειγμα:
 
 ```blocks3
 when flag clicked
@@ -37,18 +37,18 @@ end
 ```
 --- /task ---
 
-You can customise your project to play any sound you want when the **pick** touches an instrument, object, or character on the Stage.
+Μπορείς να προσαρμόσεις το έργο σου ώστε να παίζει όποιον ήχο θέλεις όταν η **πένα**αγγίζει ένα όργανο, αντικείμενο ή χαρακτήρα στη Σκηνή.
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs.
+**Εντοπισμός σφαλμάτων:** Ενδέχεται να βρεις κάποια σφάλματα στο έργο σου που πρέπει να διορθώσεις. Εδώ είναι μερικά κοινά σφάλματα.
 
 --- collapse ---
 ---
-title: The sound changes to the wrong sound
+title: Ο ήχος αλλάζει σε λάθος ήχο
 ---
 
-Make sure the `if`{:class="block3control"} condition in your `Sensing`{:class='block3control'} block matches the instrument or sound you wanted from the `Music`{:class='block3custom'} extension.
+Βεβαιώσου ότι η συνθήκη `Εάν`{:class="block3control"} στο μπλοκ `Αισθητήρα`{:class='block3control'} ταιριάζει με το όργανο ή τον ήχο που ήθελες από την επέκταση `Μουσική`{:class='block3custom'}.
 
 ```blocks3
 when flag clicked
