@@ -1,10 +1,10 @@
-## What next?
+## ماذا بعد؟
 
-If you are following the [Further Scratch](https://projects.raspberrypi.org/en/pathways/further-scratch) pathway, you can move on to the [Welcome to my world](https://projects.raspberrypi.org/en/projects/welcome-to-my-world) project. In this project, you will create your own virtual world.
+إذا كنت تتبع مسار [المزيد من سكراتش](https://projects.raspberrypi.org/en/pathways/further-scratch) ، فيمكنك الانتقال إلى مشروع [اهلاً بك في عالمي](https://projects.raspberrypi.org/en/projects/welcome-to-my-world). في هذا المشروع ، ستنشئ عالمك الافتراضي الخاص.
 
 --- print-only ---
 
-![Welcome to my world project](images/world_road.png)
+![مرحبا بك في عالمي](images/world_road.png)
 
 --- /print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Further Scratch](https://projects.raspberrypi.org/en/p
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+إذا كنت ترغب في الحصول على مزيد من المتعة في استكشاف Scratch ، فيمكنك تجربة أي من [هذه المشاريع](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
