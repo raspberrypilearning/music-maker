@@ -8,7 +8,7 @@ legend: السؤال 2 من 3
 هنا تعريف `لبناتي`{:class='block3myblocks'}.
 
 ```blocks3
-define play note: (نغمة) beats (نبضة موسقى) rest (استراحة)
+define تشغيل النغمة: (نغمة) نبضة موسقى (نبضة موسقى) استراحة (استراحة)
 play note (نغمة) for (نبضة موسقى) beats
 rest for (استراحة) beats
 ```
@@ -20,7 +20,7 @@ rest for (استراحة) beats
 - (x)
 
 ```blocks3
-play note: (60) beats (0.25) rest (0.5)::custom
+تشغيل النغمة: (60) نبضة موسقى (0.25) استراحة (0.5)::custom
 ```
 
   --- feedback ---
@@ -31,7 +31,7 @@ play note: (60) beats (0.25) rest (0.5)::custom
 
 - ( )
 ```blocks3
-play note: (50) beats (0.25) rest (0.25)::custom
+تشغيل النغمة: (50) نبضة موسقى (0.25) استراحة (0.25)::custom
 ```
 
   --- feedback ---
@@ -42,7 +42,7 @@ play note: (50) beats (0.25) rest (0.25)::custom
 
 - ( )
 ```blocks3
-play note: (60) beats (0.25) rest (0.25)::custom
+تشغيل النغمة: (60) نبضة موسقى (0.25) استراحة (0.25)::custom
 ```
 
   --- feedback ---
@@ -53,7 +53,7 @@ play note: (60) beats (0.25) rest (0.25)::custom
 
 - ( )
 ```blocks3
-play note: (60) beats (0.5) rest (0.25)::custom
+تشغيل النغمة: (60) نبضة موسقى (0.5) استراحة (0.25)::custom
 ```
 
   --- feedback ---
