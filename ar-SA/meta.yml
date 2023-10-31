@@ -1,0 +1,31 @@
+---
+title: صانع الموسيقى
+hero_image: images/banner.png
+description: صمم آلتك الموسيقية الخاصة.
+meta_title: مشاريع البرمجة باستخدام منصة سكراتش للأطفال والمراهقين
+meta_description: تعلم البرمجة في سكراتش باستخدام مشاريع الترميز الخاصة بمؤسسة Raspberry Pi Foundation للأطفال والمراهقين. أنشئ رسومًا متحركة وألعابًا وتطبيقات من سكراتش والمزيد.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-06-11"
+steps:
+  - title: سوف تصنع
+  - title: قم بإنشاء أداة موسيقية
+  - title: تشغيل الموسيقى
+    completion:
+      - engaged
+  - title: تغيير الصوت
+  - title: أنشئ مشهدًا صوتيًا
+    completion:
+      - internal
+  - title: اختبار سريع
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 2
+      passing_score: 2
+    completion:
+      - external
+  - title: قم بترقية او تطوير مشروعك
+  - title: مشاركة
+  - title: ما التالي؟
