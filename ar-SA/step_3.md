@@ -44,7 +44,7 @@ go to (mouse-pointer v)
 
 هناك العديد من عناصر الموسيقى التي يمكنك تجربتها. يمكنك تغيير النغمات ، والآلة ، والإيقاعات ، توقف ، والإيقاع.
 
-قم بإنشاء لبنة من`لبناتي/0>{:class='block3myblocks'} التي تحتوي على مدخلات للعديد من هذه العناصر كما تريد.
+قم بإنشاء لبنة من `لبناتي`{:class='block3myblocks'} التي تحتوي على مدخلات للعديد من هذه العناصر كما تريد.
 
 --- collapse ---
 ---
@@ -52,7 +52,7 @@ title: إنشاء لبنة مقطع موسيقي
 ---
 
 ```blocks3
-define play note: (نغمة) beats (نبضة موسقى) rest (استراحة)
+define تشغيل النغمة: (نغمة) نبضة موسقى (نبضة موسقى) استراحة (استراحة)
 play note (نغمة) for (نبضة موسقى) beats
 rest for (استراحة) beats
 ```
@@ -76,10 +76,10 @@ rest for (استراحة) beats
 when flag clicked
 forever
 if <touching color (#49c020) > then
-play note: (60) beats (0.25) rest (0.25)::custom
+تشغيل النغمة: (60) نبضة موسقى (0.25) استراحة (0.25)::custom
 end
 if <touching color (#7f20c0) > then 
-play note: (62) beats (0.25) rest (0.25)::custom
+تشغيل النغمة: (62) نبضة موسقى (0.25) استراحة (0.25)::custom
 end
 end
 ```
