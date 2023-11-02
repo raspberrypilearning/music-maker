@@ -1,0 +1,31 @@
+---
+title: Δημιουργός μουσικής
+hero_image: images/banner.png
+description: Σχεδίασε το δικό σου μουσικό όργανο.
+meta_title: Έργα προγραμματισμού scratch για παιδιά και εφήβους | Δημιουργός Μουσικής
+meta_description: Μάθε Scratch με τα έργα προγραμματισμού του ιδρύματος Rasberry Pi για παιδιά και για εφήβους. Σχεδίασε το δικό σου μουσικό όργανο με την Scratch και πειραματίσου με τους ήχους.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-06-11"
+steps:
+  - title: Τι θα φτιάξεις
+  - title: Δημιούργησε ένα όργανο
+  - title: Παίξε μουσική
+    completion:
+      - engaged
+  - title: Άλλαξε τον ήχο
+  - title: Δημιούργησε ένα ηχητικό τοπίο
+    completion:
+      - internal
+  - title: Γρήγορο κουίζ
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 2
+      passing_score: 2
+    completion:
+      - external
+  - title: Αναβάθμισε το έργο σου
+  - title: Κοινοποίηση
+  - title: Τι ακολουθεί;
