@@ -52,7 +52,7 @@ title: Δημιούργησε ένα προσαρμοσμένο μπλοκ μο�
 ---
 
 ```blocks3
-define παίξε νότα: (νότα) beats (χτύποι) rest (παύση)
+define παίξε νότα: (νότα) χτύποι (χτύποι) παύση (παύση)
 play note (νότα) for (χτύποι) beats
 rest for (παύση) beats
 ```
@@ -76,10 +76,10 @@ rest for (παύση) beats
 when flag clicked
 forever
 if <touching color (#49c020) > then
-play note: (60) beats (0.25) rest (0.25)::custom
+παίξε νότα: (60) χτύποι (0.25) παύση (0.25)::custom
 end
 if <touching color (#7f20c0) > then 
-play note: (62) beats (0.25) rest (0.25)::custom
+παίξε νότα: (62) χτύποι (0.25) παύση (0.25)::custom
 end
 end
 ```
