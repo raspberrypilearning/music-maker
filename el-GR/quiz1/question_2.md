@@ -8,7 +8,7 @@ legend: Ερώτηση 2 από 3
 Παρακάτω είναι ένα ορισμός `οι εντολές μου`{:class='block3myblocks'}.
 
 ```blocks3
-define παίξε νότα: (νότα) beats (χτύποι) rest (παύση)
+define παίξε νότα: (νότα) χτύποι (χτύποι) παύση (παύση)
 play note (νότα) for (χτύποι) beats
 rest for (παύση) beats
 ```
@@ -20,7 +20,7 @@ rest for (παύση) beats
 - (x)
 
 ```blocks3
-play note: (60) beats (0.25) rest (0.5)::custom
+παίξε νότα: (60) χτύποι (0.25) παύση (0.5)::custom
 ```
 
   --- feedback ---
@@ -31,7 +31,7 @@ play note: (60) beats (0.25) rest (0.5)::custom
 
 - ( )
 ```blocks3
-play note: (50) beats (0.25) rest (0.25)::custom
+παίξε νότα: (50) χτύποι (0.25) παύση (0.25)::custom
 ```
 
   --- feedback ---
@@ -42,7 +42,7 @@ play note: (50) beats (0.25) rest (0.25)::custom
 
 - ( )
 ```blocks3
-play note: (60) beats (0.25) rest (0.25)::custom
+παίξε νότα: (60) χτύποι (0.25) παύση (0.25)::custom
 ```
 
   --- feedback ---
@@ -53,7 +53,7 @@ play note: (60) beats (0.25) rest (0.25)::custom
 
 - ( )
 ```blocks3
-play note: (60) beats (0.5) rest (0.25)::custom
+παίξε νότα: (60) χτύποι (0.5) παύση (0.25)::custom
 ```
 
   --- feedback ---
