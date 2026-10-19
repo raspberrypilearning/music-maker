@@ -16,7 +16,7 @@ Your instrument will play notes when another sprite touches the different colour
 
 --- task ---
 
-Make or choose a sprite that will follow your mouse-pointer and can be used to play different notes. In the example below, we have used a simple coloured circle.
+Make or choose a sprite that will follow your mouse-pointer and can be used to play different notes. Name this sprite **pick**. In the example below, we have used a simple coloured circle.
 
 ![Small gold circle sprite.](images/pick.png)
 
@@ -32,6 +32,7 @@ Add code so that your new sprite follows the mouse-pointer.
 when flag clicked
 forever
 go to (mouse-pointer v)
+end
 ```
 --- /task ---
 
@@ -44,7 +45,7 @@ Use `My Blocks`{:class='block3myblocks'} to design what your instrument sounds l
 
 There are many elements of music that you can experiment with. You can change the notes, instrument, beats, rest, and tempo.
 
-Create a `My Blocks`{:class='block3myblocks'} block that has inputs for as many of these elements as you want.
+With the **pick** sprite selected, create a `My Blocks`{:class='block3myblocks'} block that has inputs for as many of these elements as you want.
 
 --- collapse ---
 ---
@@ -65,7 +66,7 @@ When the sprite that is following the mouse-pointer touches a specific colour on
 
 --- task ---
 
- Add `if...then`{:class='block3control'} blocks and the `play note:`{:class='block3myblocks'} blocks to your **instrument** sprite. Add as many `if...else`{:class='block3control'} blocks as you need.
+ Add `if...then`{:class='block3control'} blocks and the `play note:`{:class='block3myblocks'} blocks to your **pick** sprite. It will sense the colours on the instrument. Add as many `if...then`{:class='block3control'} blocks as you need.
 
  --- collapse ---
  ---

@@ -34,6 +34,7 @@ forever
 if <touching (Guitar v) ?> then
 set instrument to (Electric Guitar v)
 end
+end
 ```
 --- /task ---
 
@@ -53,8 +54,9 @@ Make sure the `if`{:class="block3control"} condition in your `Sensing`{:class='b
 ```blocks3
 when flag clicked
 forever
-+ if <touching (Guitar v) ?> then
++if <touching (Guitar v) ?> then
 + set instrument to (Electric Guitar v)
+end
 end
 ```
 
